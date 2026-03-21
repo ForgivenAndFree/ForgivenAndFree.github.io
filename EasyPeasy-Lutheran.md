@@ -781,7 +781,7 @@ Ask God to go with you, to lead you not into temptation, to deliver you from evi
 
 Satan tells you God can't hear you. He hates it when you pray. But Scripture speaks a different word:
 
-> *If I had cherished sin in my heart, the Lord would not have listened; but God has surely listened and has heard my prayer. Praise be to God, who has not rejected my prayer or withheld his love from me!* — Psalm 66:18-20
+> *Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words.* — Romans 8:26 (ESV)
 
 ---
 
@@ -927,13 +927,11 @@ You will never look back and regret playing it safe. Be a student of your own st
 
 ### Day 15: 610 Good Names
 
-Did you know the New Testament contains roughly 72 negative names for Christians and approximately **610** positive ones? For every one time God calls us "sinners," nine times He calls us "saints."
+Did you know the New Testament contains roughly 72 negative names for Christians and approximately **610** positive ones? God does not shy away from calling you a sinner — but He is far more eager to call you a saint. Not because you are less of a sinner than you think, but because Christ's righteousness is greater than your sin. You are simultaneously both, fully — *simul justus et peccator*. But grace abounds all the more.
 
 > *Where sin increased, grace increased all the more.* — Romans 5:20
 
-Call yourself a sinner if you wish — the Bible does. But be biblically balanced. Call yourself all the other names too: Holy. Pure. Loved. Chosen. Justified. Sanctified. Redeemed. Blameless. Spotless.
-
-That's not positive thinking. That's God reminding you of your identity in Christ.
+So call yourself what God calls you: sinner, yes — but also holy, pure, loved, chosen, justified, sanctified, redeemed, blameless, spotless. Not one or the other. Both. That is the paradox of the Christian life, and it is the truest thing about you.
 
 ---
 
@@ -1009,7 +1007,7 @@ Decision fatigue can be a significant factor in whether we give in to temptation
 
 God understands. In Galatians 5, the first three "acts of the flesh" are sexual immorality, impurity, and debauchery — the thing you do when you're tired of having self-control.
 
-Manage your fatigue. Get enough sleep. Don't drink alone. Keep yourself away from temptation when you're vulnerable. Every day, spend time with Jesus. In Him, your flesh and all its acts have been crucified.
+Manage your fatigue. Get enough sleep. Don't drink alone. Keep yourself away from temptation when you're vulnerable. Every day, receive Christ where He has promised to be — in His Word, in the Sacrament, in the mutual conversation and consolation of the brethren. In Him, your flesh and all its acts have been crucified.
 
 > *Those who belong to Christ Jesus have crucified the flesh with its passions and desires.* — Galatians 5:24
 

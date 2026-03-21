@@ -172,7 +172,7 @@ But if "preparation" means reading three more books, researching twelve accounta
 
 Here is all the preparation you need: understand that pornography gives you nothing (you've been learning this throughout this book), recognize that the withdrawal is brief and mild, know that your brain will recover, and trust that the means of grace will sustain you. That's it.
 
-You don't need perfect conditions. You don't need comprehensive strategy. You don't need emotional readiness — whatever that means. You need to decide, and you need to decide now. The rest follows.
+You don't need perfect conditions. You don't need comprehensive strategy. You don't need emotional readiness — whatever that means. Christ has already set you free. There is nothing left to wait for. The rest follows.
 
 ## The Joy on the Other Side
 
@@ -184,7 +184,7 @@ The man who quits today and endures three weeks of mild withdrawal will be swimm
 
 Time passes whether you use it or not. Three weeks from now, you'll either be free or still trapped. The three weeks will pass either way. The only question is what you'll have on the other side.
 
-Choose freedom. Choose it now. Not because you're ready — you'll never feel ready. Not because conditions are perfect — they never will be. But because now is the day of salvation, and Christ's grace is sufficient for this moment, and this trap has held you long enough.
+The door is open. The chains are already gone. Christ has seen to that. Not because you're ready — you'll never feel ready. Not because conditions are perfect — they never will be. But because now is the day of salvation, and Christ's grace is sufficient for this moment, and this trap has held you long enough.
 
 The time is now. Dive in.
 

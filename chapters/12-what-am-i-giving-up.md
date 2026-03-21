@@ -124,7 +124,7 @@ Of course not. That's absurd. You don't mourn the loss of what was killing you. 
 
 > *"So if the Son sets you free, you will be free indeed."* (John 8:36)
 
-Jesus doesn't ask you to sacrifice something good. He asks you to let go of something that is destroying you, so that He can give you something infinitely better. The transaction is so lopsided in your favor that it barely qualifies as a transaction at all.
+Jesus doesn't ask you to sacrifice something good. He is taking from you something that is destroying you and giving you something infinitely better. The transaction is so lopsided in your favor that it barely qualifies as a transaction at all.
 
 And yet people resist. People walk away. Just like the rich young ruler.
 
@@ -207,4 +207,4 @@ And you will look back, as thousands of former users have looked back, and you w
 
 *The cell is not your friend. The darkness is not your comfort. The chains are not your security. They are a prison, and the door is open, and the sunlight is real, and you have nothing — nothing — to lose by walking through it.*
 
-*Lord Jesus, You who came to proclaim freedom for the captives and release from darkness for the prisoners — open my eyes to see that my chains are worthless, that my cell is not my home, that the sunlight beyond the door is not something to fear but something to run toward. Give me the grace to let go of what is killing me and to receive with both hands what You are offering: life, and life abundantly. You have set me free. Help me to believe it. Amen.*
+*Lord Jesus, You who came to proclaim freedom for the captives and release from darkness for the prisoners — open my eyes to see that my chains are worthless, that my cell is not my home, that the sunlight beyond the door is not something to fear but something to run toward. Take from me what is killing me and give me what You have promised: life, and life abundantly. You have set me free. Help me to believe it. Amen.*

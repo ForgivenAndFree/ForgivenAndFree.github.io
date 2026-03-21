@@ -147,17 +147,15 @@ Luther wrote: "A Christian is a perfectly free lord of all, subject to none. A C
 
 ---
 
-## The Moment of Revelation
+## The Truth That Sets You Free
 
-Let me describe what the moment of freedom feels like, so you know what you're moving toward.
+Freedom is not a feeling you wait for. It is a truth you trust.
 
-It is not a moment of teeth-gritting determination. It is not a moment of "I must be strong." It is a moment of clarity — a moment when you see pornography for what it truly is, stripped of every illusion, and you realize with something between laughter and tears that *you never needed it at all.*
+The truth is simple: pornography gives you nothing. It never did. It promised relief and delivered slavery. It promised pleasure and delivered numbness. It promised connection and delivered isolation. When you see this clearly — when the brainwashing is stripped away — the trap loses its power. Not because you've mustered enough willpower, but because you can see that the cage door was never locked.
 
-It is like waking up from a dream in which you were drowning, and realizing that the water was ankle-deep. It is like discovering that the locked door you've been pounding on was actually ajar — you just needed to push instead of pull. It is like the moment in *The Wizard of Oz* when the curtain is pulled back and the terrifying wizard is revealed to be a small, pathetic man with a loudspeaker.
+It is like the moment in *The Wizard of Oz* when the curtain is pulled back and the terrifying wizard is revealed to be a small, pathetic man with a loudspeaker. The wizard didn't become less powerful — he never had any power to begin with. You just didn't know that yet.
 
-When Allen Carr had his moment of clarity about cigarettes, he described it as euphoria — a sudden, overwhelming joy that he was free and always had been. Many who have used this method for pornography describe the same thing. Not the grim satisfaction of white-knuckle abstinence, but genuine joy. Relief. Lightness. The realization that the "sacrifice" was no sacrifice at all, because there was nothing to give up.
-
-This is available to you. Not through heroic effort, but through understanding. Not through fighting harder, but through seeing more clearly.
+Many people who have used this method describe a sense of joy and relief — the realization that there was nothing to give up, that the "sacrifice" was no sacrifice at all. You may experience this. You may not. It doesn't matter. Your freedom does not depend on feeling free. It depends on what is true — and what is true is that Christ has set you free, the Word of God says so, and pornography has nothing to offer you. Faith clings to the promise, not to the experience.
 
 ---
 
@@ -165,9 +163,9 @@ This is available to you. Not through heroic effort, but through understanding. 
 
 In the following chapters, we are going to systematically dismantle every false belief that sustains your addiction. We are going to examine the neurological trap in detail — how it works, why it works, and why it makes pornography seem indispensable when it is actually worthless. We are going to look at every supposed "benefit" of pornography and show that each one is a mirage.
 
-As we do this, something will happen inside you. The brainwashing will begin to dissolve. The illusions will begin to clear. And at a certain point — different for every reader, but it will come — you will have your moment of clarity. You will see the trap for what it is, and you will step out of it. Not because you are strong, but because the trap has been exposed and has lost its power.
+As we do this, the brainwashing will begin to dissolve. The illusions will begin to clear. You will see the trap for what it is, and you will step out of it. Not because you are strong, but because the trap has been exposed and has lost its power.
 
-Do not rush toward that moment. Do not try to force it. Let it come naturally as you work through each chapter. Remember the combination lock: every chapter turns a tumbler. Skip none.
+Work through each chapter carefully. Remember the combination lock: every chapter turns a tumbler. Skip none. And trust the truth even before you feel it — that is what faith does.
 
 And do not be afraid. You are not about to enter a battle. You are about to wake up from one.
 

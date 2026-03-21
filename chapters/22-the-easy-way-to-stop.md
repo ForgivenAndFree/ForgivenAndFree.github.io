@@ -11,10 +11,12 @@ Everything in this book has been leading here. Every chapter on the backward mec
 
 Here it is. To stop watching pornography, you need to do two things:
 
-1. **Make the decision that you are never going to watch porn again.**
+1. **Trusting God's promise that you are free in Christ, decide that you are done with porn.**
 2. **Don't mope about it. Rejoice.**
 
 That's it. That's the method.
+
+A word about that first point. Yes, it involves your will. The Formula of Concord teaches that in sanctification, the regenerate will cooperates with the Holy Spirit — "yet in great weakness." This is not the autonomous, self-powered decision of the willpower method. This is the response of a baptized child of God who has seen the truth about the trap and now, sustained by the Spirit, acts on it. The emphasis is not on the strength of your resolve but on the trustworthiness of God's promise. You are not deciding to be strong. You are deciding to trust what is true.
 
 I can hear the objection already: "That's it? I read twenty-one chapters for *that*?"
 
@@ -64,7 +66,7 @@ This is important because the Big Monster — the brainwashing — loves to whis
 
 Lies. All of it. Millions of people have been exactly where you are and have walked free. The human brain is spectacularly resilient. Neuroplasticity — the brain's ability to rewire itself — works in both directions. The same mechanism that carved those deep grooves of addiction will, in the absence of reinforcement, gradually fill them back in. Your brain *wants* to heal. You just have to stop re-injuring it.
 
-The only person who can make you watch porn is you. No craving has the power to move your hand to the keyboard. No urge has the authority to override your decision. The little monster — the fading neurological echo of withdrawal — can whisper, but it cannot compel. You are not a puppet. You are a person. And you are fully capable of this.
+The only person who can make you watch porn is you. No craving has the power to move your hand to the keyboard. No urge has the authority to override your decision. The little monster — the fading neurological echo of withdrawal — can whisper, but it cannot compel. You are not a puppet. You are a person — baptized, forgiven, and sustained by the Holy Spirit. And by His power, you are equipped for this.
 
 ### Point Two: There Is Nothing to Give Up
 
@@ -114,11 +116,11 @@ So drop the identity label. You are not "a porn addict." You are a baptized chil
 
 This is the most important paragraph in this chapter. Read it slowly.
 
-The moment you make the final decision — the genuine, clear-eyed, non-moping decision that you are done with porn forever — **you are already a non-user.**
+The moment you trust the truth and decide you are done — not in your own strength, but leaning on the promise of Christ — **you are already a non-user.**
 
-Not "you are on your way to becoming a non-user." Not "you will be a non-user in ninety days." You are a non-user *right now*, in this moment, by virtue of the decision.
+Not "you are on your way to becoming a non-user." Not "you will be a non-user in ninety days." You are a non-user *right now*, in this moment.
 
-Why? Because the distinction between a user and a non-user is not neurological. It's not about how many days since your last session. It's about the decision. A user is someone who destroys themselves with porn. A non-user is someone who doesn't. The moment you make the decision with certainty — the moment you see the truth and resolve never to go back — you have crossed the line. You are on the other side.
+Why? Because the distinction between a user and a non-user is not neurological. It's not about how many days since your last session. It's about where your trust lies. A user is someone who still believes the lie that porn provides something. A non-user is someone who has seen through the lie and trusts God's promise of freedom more than the brainwashing's promise of pleasure. The moment you see the truth and, in the weakness of your regenerate will sustained by the Spirit, resolve never to go back — you have crossed the line. You are on the other side.
 
 Yes, there may be a few weeks of mild withdrawal. The little monster will whimper. But the little monster is a dying parasite, and you are a living human being. The withdrawal is not you wanting porn. It's the parasite wanting to be fed. And you are no longer in the business of feeding parasites.
 
@@ -126,15 +128,15 @@ Yes, there may be a few weeks of mild withdrawal. The little monster will whimpe
 
 ## The Key Is Certainty
 
-Notice that I keep using the word "certainty." Not hope. Not optimism. Not "positive thinking." *Certainty.*
+Notice that I keep using the word "trust." Not hope. Not optimism. Not "positive thinking." *Trust.*
 
-The difference matters. Hope says, "Maybe I can do this." Certainty says, "This is done." Hope leaves room for doubt, and doubt is the crack through which relapse enters. Certainty seals the door.
+The difference matters. Hope says, "Maybe I can do this." Trust says, "God's promise is reliable, and the truth about this trap is clear." Hope depends on your feelings in the moment. Trust depends on the object of your trust — and the object of your trust is God's Word, which does not change.
 
-How do you achieve certainty? Not by psyching yourself up. Not by affirmations in the mirror. Not by pretending to feel what you don't feel. You achieve certainty by *seeing the truth clearly*. When you understand — truly, in your bones — that porn gives you nothing, certainty follows naturally. You don't need to manufacture confidence about walking away from nothing.
+How do you arrive at trust? Not by psyching yourself up. Not by affirmations in the mirror. Not by pretending to feel what you don't feel. You arrive at trust by *seeing the truth clearly* — both the practical truth (porn gives you nothing) and the Gospel truth (Christ has set you free). When you understand that porn is an empty trap, and when you lean on God's promise rather than your own strength, trust follows. You don't need to manufacture confidence about walking away from nothing.
 
-If you don't feel certain right now, don't force it. Go back and re-read. Something hasn't clicked. Maybe it's Point Two — you still think you're giving something up. Maybe it's Point Three — you're already planning your "just one peek" escape hatch. Maybe it's Point Five — you still believe this is who you are and you can't change. Find the weak point and address it. Don't proceed without certainty.
+If you don't feel ready right now, don't force it. Go back and re-read. Maybe it's Point Two — you still think you're giving something up. Maybe it's Point Three — you're already planning your "just one peek" escape hatch. Maybe it's Point Five — you still believe this is who you are and you can't change. Find the weak point and address it.
 
-But if you do feel certain — if you can look at the whole structure of the trap and see it for the empty, pathetic thing it is — then rejoice. You're ready.
+But here is the Lutheran comfort: even weak faith is still faith. Even trembling trust is still trust. You do not need to feel like a spiritual giant to proceed. You only need to know that the truth is true and that God's promises are reliable. "Lord, I believe; help my unbelief" (Mark 9:24) is a perfectly good place to start. If you can look at the trap and see it for the empty, pathetic thing it is — even while your hands are shaking — then rejoice. You're ready.
 
 ---
 
@@ -208,4 +210,4 @@ Think: "I'm free — and in three weeks, even the last echo of the trap will be 
 
 ## A Prayer
 
-*Lord Jesus Christ, You who are the Truth that sets free: I stand in Your truth today. Not in my strength — I have none that suffices. Not in my track record — it is littered with failures. Not in my resolutions — they have crumbled before. I stand in Your truth: that this trap gives me nothing, that Your cross gives me everything, that my baptism defines me, and that Your Spirit empowers me. I make the decision today not as an act of willpower but as an act of sight. I see the trap. I see its emptiness. And I see the open door. I am walking out. Here I stand. I can do no other. God help me. Amen.*
+*Lord Jesus Christ, You who are the Truth that sets free: I stand in Your truth today. Not in my strength — I have none that suffices. Not in my track record — it is littered with failures. Not in my resolutions — they have crumbled before. I stand in Your truth: that this trap gives me nothing, that Your cross gives me everything, that my baptism defines me, and that Your Spirit empowers me. You have opened my eyes today — not by my willpower but by Your truth. I see the trap. I see its emptiness. And I see the open door You have set before me. By Your Spirit, I am walking out. Here I stand. I can do no other. God help me. Amen.*

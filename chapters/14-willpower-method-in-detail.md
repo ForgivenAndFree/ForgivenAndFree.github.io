@@ -194,9 +194,9 @@ The answer is: *deliverance through Jesus Christ*. And the immediate consequence
 
 The willpower method keeps you perpetually in Romans 7 — perpetually struggling, perpetually failing, perpetually condemned. The Gospel brings you to Romans 8 — delivered, set free, no longer condemned.
 
-This does not mean that freedom from porn addiction is a purely spiritual event that requires no practical understanding. That would be its own form of the "theology of glory" — expecting God to zap you with freedom while you do nothing to understand the trap. No. God works through means. And one of the means He uses is *understanding*. He gave you a brain, and He expects you to use it. This book is a means through which the truth can set you free.
+This does not mean that freedom from porn addiction is a purely spiritual event that requires no practical understanding. That would be its own form of the "theology of glory" — expecting God to zap you with freedom while you do nothing to understand the trap. No. God gave you a brain, and He expects you to use it. This book is a practical tool that helps you see through the lies that sustain the addiction — lies that operate at the level of natural reason and can be addressed at the level of natural reason.
 
-But the *power* for freedom does not come from your will. It comes from the Spirit. And the Spirit works not through the Law ("Stop doing that!") but through the Gospel ("You are already free in Christ. Now live in that freedom by seeing the truth.").
+But the *power* for freedom from sin does not come from your will or your intellect. It comes from the Spirit, working through the means of grace — Word, Baptism, and the Lord's Supper. This book can dismantle brainwashing. Only the Gospel can forgive sin, restore your identity, and sustain you in the daily battle against the old Adam.
 
 
 ## The Formula of Concord: On Free Will
@@ -209,9 +209,9 @@ This was written about conversion — about the inability of the natural will to
 
 The Confessions say otherwise. The human will, corrupted by sin, curved in on itself *(incurvatus in se)*, is not capable of delivering itself. This is not an insult. It is a diagnosis. And the diagnosis leads to the only effective treatment: dependence on the Holy Spirit working through the means of grace — Word, Baptism, and the Lord's Supper.
 
-But — and this is crucial — the Holy Spirit does not typically work by magically removing desires while you sit passively. He works through *understanding*. Through *truth*. "You will know the truth, and the truth will set you free" (John 8:32). The Spirit opens your eyes to see what is true — that porn gives you nothing, that the void is manufactured, that the fear is baseless — and in the light of that truth, the chains fall off.
+But — and this is crucial — do not sit passively and wait for God to remove your desires while you make no effort to understand the trap. God gave you reason, and reason is competent to see through lies. You do not need a special revelation to understand that pornography promises what it cannot deliver. That is a matter of plain observation and clear thinking.
 
-This book is not a replacement for the means of grace. It is a companion to them. Read it, and read Scripture. Apply the method, and receive the Sacrament. Understand the trap, and confess your sins and receive absolution. The intellectual understanding removes the brainwashing. The Gospel removes the condemnation. Together, they produce genuine freedom — not the white-knuckled quasi-freedom of willpower, but the deep, settled, joyful freedom of someone who has escaped a trap and knows they will never go back.
+This book is not a replacement for the means of grace. It is not even in the same category. The means of grace — Word, Baptism, the Lord's Supper, Absolution — are God's own instruments through which the Holy Spirit works faith, forgives sin, and sustains the Christian life. This book is a practical tool that operates in the realm of natural reason: it dismantles false beliefs about pornography. Read it, and read Scripture. Apply the method, and receive the Sacrament. Understand the trap, and confess your sins and receive absolution. The method addresses the brainwashing. The Gospel addresses the sin. They serve different purposes in different realms — and you need both, but they must not be confused.
 
 
 ## Why This Matters

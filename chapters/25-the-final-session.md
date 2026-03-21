@@ -39,13 +39,13 @@ But understand what this vow is and what it is not.
 
 **This vow is not a vow of willpower.** It is not "I will try very hard not to watch porn." It is not "I promise to resist temptation." It is not "I commit to white-knuckling my way through the next ninety days." Those are willpower vows, and willpower vows break because they are built on the assumption that you want something you can't have.
 
-**This vow is a declaration of truth.** It is a statement of what you now know to be the case. It is the verbal expression of the understanding that has been building through every chapter of this book.
+**This vow is an act of trust.** It is the response of your regenerate will — cooperating with the Holy Spirit, in great weakness, as the Formula of Concord teaches — to the truth you now see. It is not a declaration of your strength. It is a confession of what God has shown you and a decision to walk in it, leaning on His promise rather than your own resolve.
 
 Here is what you are declaring:
 
-*I am done with pornography. Not because I am strong enough to resist it, but because I see that it gives me nothing. Not because I fear the consequences, but because I understand the trap. Not because someone is watching me, but because the brainwashing is broken and I see clearly. Porn is a poison that masquerades as a pleasure. It creates the discomfort it pretends to relieve. It takes everything and gives nothing. I don't need it. I never did. And I will never use it again — not because I can't, but because I don't want to. There is nothing there for me.*
+*I am done with pornography. Not because I am strong enough to resist it, but because I see that it gives me nothing and I trust God's promise more than the lie. Not because I fear the consequences, but because I understand the trap. Not because someone is watching me, but because the brainwashing is broken and I see clearly. Porn is a poison that masquerades as a pleasure. It creates the discomfort it pretends to relieve. It takes everything and gives nothing. I don't need it. I never did. And I will never use it again — not because I can't, but because I don't want to, and not because my will is strong, but because God's Word is true. There is nothing there for me.*
 
-Say it. Mean it. And then let the weight of it settle into your bones.
+Say it. Mean it — even if your faith feels small. "Lord, I believe; help my unbelief" is enough. And then let the weight of it settle into your bones.
 
 ---
 

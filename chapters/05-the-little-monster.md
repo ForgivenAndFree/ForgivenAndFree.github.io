@@ -201,7 +201,7 @@ This is why the EasyPeasy method produces more stable long-term results than the
 
 But when the big monster is dead — when you truly, deeply, genuinely understand that pornography provides nothing — there is nothing to miss. There is nothing to crave. There is no internal voice whispering about what you're giving up, because you know you're giving up nothing. And without the big monster's amplification, even a stray cue or a momentary neurological echo has no power. You notice it, recognize it for what it is ("Ah, that's just an old pathway firing — it means nothing"), and let it pass. It's like noticing a scar from an old wound: evidence that something happened once, but not a current injury.
 
-Freedom from pornography, achieved through understanding rather than willpower, is not a life of perpetual vigilance. It is a life of peace. The war is over. The enemy is dead. You are not a soldier in an endless battle. You are a free person living a free life.
+Freedom from pornography, achieved through understanding rather than willpower, is not a life of perpetual vigilance. It is a life of peace. The war has been won by Christ — though the old Adam still stirs, he no longer commands you. You are not a soldier fighting for uncertain victory. You are a baptized child of God living in the freedom Christ has already secured.
 
 ---
 
@@ -229,7 +229,7 @@ Kill the big monster, and the little monster's days are numbered.
 
 *Lord God, You have shown me the nature of the parasite that has attached itself to Your good creation in me. I see it now — the little monster, the mild craving, the whisper that pretends to be a roar. It is not as powerful as I feared. It is not as permanent as I believed. It is a dying thing, and its days are numbered.*
 
-*Grant me patience in these days of dying. When the little monster whispers, remind me what it is: not a need, not a friend, not a part of me — but a parasite, starving, weakening, fading. When the restlessness comes, let me sit with it calmly, knowing it will pass. When the emptiness echoes, fill it with Your presence — not as a replacement for the old fix, but as the reality of which the old fix was a hollow counterfeit.*
+*Grant me patience in these days of dying. When the little monster whispers, remind me what it is: not a need, not a friend, not a part of me — but a parasite, starving, weakening, fading. When the restlessness comes, let me sit with it calmly, knowing it will pass. When the emptiness echoes, sustain me through Your Word and Sacrament — not as a replacement for the old fix, but as the reality of which the old fix was a hollow counterfeit.*
 
 *I take comfort in Your hymn, dear Luther: "His rage we can endure, for lo, his doom is sure." The little monster's doom is sure. It is already dying. I need only wait, and trust, and refuse to feed what is already starving.*
 

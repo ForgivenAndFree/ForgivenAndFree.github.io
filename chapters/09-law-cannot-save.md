@@ -138,7 +138,7 @@ Read that again slowly, because every phrase matters.
 
 "People cannot be justified before God by their own strength." Applied to addiction: you cannot free yourself by your own willpower. This is not a pessimistic assessment. It is a realistic one, confirmed by the experience of millions who have tried.
 
-"People are freely justified for Christ's sake, through faith." Applied to addiction: freedom is received through understanding (which is the structure of faith — trusting what is true), not achieved through effort. When you understand that porn gives you nothing, the addiction loses its grip. You don't wrestle it to the ground. It collapses.
+"People are freely justified for Christ's sake, through faith." Applied to addiction: freedom is received through understanding (which, like faith, is a gift — the Holy Spirit opening your eyes to what is true), not achieved through effort. When you understand that porn gives you nothing, the addiction loses its grip. You don't wrestle it to the ground. It collapses.
 
 "When they believe that they are received into favor." Applied to addiction: you are not on probation. You are not earning your way to freedom one day at a time. You are received. Now. As you are. With whatever history you carry. The favor of God is not contingent on your streak counter.
 
@@ -164,17 +164,15 @@ Your worth was established at the cross and applied at the font. It does not flu
 
 ## The Freedom of the Gospel Applied
 
-Here, finally, is where the Gospel and the method converge perfectly.
+Here, finally, is where the Gospel frees us and the method serves as a practical tool — each in its proper place.
 
-The Gospel says: "You cannot save yourself. Christ has saved you. Receive what He has done." The method says: "You cannot white-knuckle yourself free. The truth will free you. Receive what this book is showing you."
+The Gospel and this method are not the same thing. They must not be confused. The Gospel is the power of God for salvation — it forgives your sins, declares you righteous for Christ's sake, and creates faith through the Holy Spirit. No book, no method, no cognitive technique can do what the Gospel does. The Gospel operates in the realm of your standing before God, and it is sufficient, complete, and requires no supplement.
 
-The Gospel says: "The Law had a purpose — to show you your need. Now that you see your need, receive the gift." The method says: "The failed willpower attempts had a purpose — to show you that the willpower approach doesn't work. Now that you see it doesn't work, receive a different approach."
+This method operates in a different realm: the realm of practical understanding. It dismantles the *lies* that make pornography seem valuable. It addresses the brainwashing — the false beliefs that porn provides relaxation, relieves boredom, enhances pleasure, or fills a void. These are lies that operate at the level of natural reason, and they can be addressed at the level of natural reason. You do not need the Holy Spirit to understand that a trap is a trap, any more than you need the Holy Spirit to understand that fire is hot.
 
-The Gospel says: "There is now no condemnation." The method says: "There is nothing to feel deprived about. There is nothing to mourn. You are not losing anything. You are gaining everything."
+But here is why the distinction matters: the Gospel does something the method cannot. The method can show you that porn gives you nothing. But only the Gospel can forgive the sin, remove the condemnation, and restore your identity as a baptized child of God. Without the Gospel, the method might free you from the habit but leave you crushed under guilt. Without the method, the Gospel forgives you completely but the brainwashing may keep pulling you back into a trap you don't understand.
 
-The Gospel says: "You are justified freely." The method says: "Freedom is not earned through days of deprivation. It comes through understanding."
-
-Do you see it? The structure is identical. In both cases, the human contribution is not effort but reception. Not climbing but receiving. Not achieving but understanding. Not the theology of glory but the theology of the cross.
+So use both — but do not confuse them. The Gospel is the foundation. The method is a practical tool. The Gospel is the power of God. The method is a book that helps you see through lies. One is eternal; the other is useful. Luther himself distinguished between the two kingdoms — the spiritual kingdom where God rules through Gospel and Sacrament, and the earthly kingdom where God works through reason, order, and natural means. This method belongs to the earthly kingdom. It is a good gift of reason applied to a practical problem. The Gospel belongs to the spiritual kingdom. It is the gift of God applied to your soul.
 
 Luther discovered that he had been trying to earn something that was already his. You have been trying to achieve a freedom that is already available. Not through one more streak. Not through one more accountability partner. Not through one more agonizing cycle of resolution and failure. But through seeing the truth: porn gives you nothing. There is nothing to give up. There is nothing to resist. There is nothing to white-knuckle through.
 
