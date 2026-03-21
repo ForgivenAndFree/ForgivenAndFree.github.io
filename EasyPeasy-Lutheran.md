@@ -326,7 +326,7 @@ In other words, it's the brainwashing deluding us into believing that sexual rel
 
 **Make this clear in your mind: Porn doesn't fill a void. It creates one.**
 
-Our bodies are fearfully and wonderfully made (Psalm 139:14). Whether you see them as products of intelligent design, natural selection, or both, they are astonishingly sophisticated. If our Creator had intended us to handle supernormal stimuli, He would have equipped us differently. Our bodies have fail-safe warning systems, and we ignore them at our peril.
+Our bodies are fearfully and wonderfully made (Psalm 139:14). Whether you fully understand their complexity or not, they are astonishingly sophisticated. If our Creator had intended us to handle supernormal stimuli, He would have equipped us differently. Our bodies have fail-safe warning systems, and we ignore them at our peril.
 
 ### The Ointment Analogy
 

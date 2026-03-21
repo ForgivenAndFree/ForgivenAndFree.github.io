@@ -33,7 +33,7 @@ Over time, the brain adapts. Dopamine receptors downregulate — they become les
 
 Simultaneously, sensitized pathways form — deep neurological grooves that connect the trigger (boredom, stress, loneliness, a certain time of day) to the behavior. These pathways become increasingly automatic. The user finds themselves reaching for the phone before they've even made a conscious decision. The prefrontal cortex — the "brakes" of the brain — weakens through a process called hypofrontality, reducing the user's ability to say no even when they desperately want to.
 
-This is the trap. It is neurological, reinforced by brainwashing, and sustained by a set of false beliefs about what pornography provides. Your partner did not choose it any more than a person chooses to develop a food allergy. They were lured in, and the trap was designed — by evolution, by the pornography industry, by the neurochemistry of supernormal stimuli — to hold them for life.
+This is the trap. It is neurological, reinforced by brainwashing, and sustained by a set of false beliefs about what pornography provides. Your partner did not choose it any more than a person chooses to develop a food allergy. They were lured in, and the trap was designed — by our fallen nature, by the pornography industry, by the neurochemistry of supernormal stimuli — to hold them for life.
 
 ### Their Behavior Is Not a Reflection of Their Love for You
 

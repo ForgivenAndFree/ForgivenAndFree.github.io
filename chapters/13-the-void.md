@@ -104,7 +104,7 @@ Let us trace the addiction cycle with neurological precision, because understand
 
 A brain that has never encountered internet pornography has a normally functioning reward system. Dopamine receptors are at full density and full sensitivity. Ordinary pleasures — food, friendship, exercise, accomplishment, beauty — register fully. There is no void. There is no craving. There is no withdrawal. The system is in balance.
 
-Then comes the first significant exposure to pornography. The brain encounters stimulation far more intense than anything in its evolutionary history. The dopamine response is massive — potentially hundreds of times greater than what a pleasant meal or an engaging conversation would produce.
+Then comes the first significant exposure to pornography. The brain encounters stimulation far more intense than anything in the whole of human history. The dopamine response is massive — potentially hundreds of times greater than what a pleasant meal or an engaging conversation would produce.
 
 ### Stage 2: Tolerance
 

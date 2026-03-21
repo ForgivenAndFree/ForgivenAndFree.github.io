@@ -69,9 +69,9 @@ Before we discuss the corruption, we need to understand why internet pornography
 
 The "Coolidge Effect" is named after an old joke about President Calvin Coolidge. The story goes that the President and Mrs. Coolidge were visiting a farm. When Mrs. Coolidge noticed a rooster mating frequently, she asked the farmer to point this out to the President. Coolidge asked, "Same hen every time?" "No, sir, a different hen each time," the farmer replied. "Tell that to Mrs. Coolidge," said the President.
 
-The Coolidge Effect is a well-documented phenomenon across mammalian species: a male who has reached sexual satiation with one partner will experience a dramatic resurgence of sexual arousal and dopamine release when presented with a new partner. This is a feature, not a bug — it exists to promote genetic diversity. In evolutionary terms, a male who was motivated to mate with multiple females would spread his genes more widely.
+The Coolidge Effect is a well-documented phenomenon across mammalian species: a male who has reached sexual satiation with one partner will experience a dramatic resurgence of sexual arousal and dopamine release when presented with a new partner. This is a feature, not a bug — a consequence of the Fall's corruption of our desires. In our sinful nature, the drive toward novelty pulls men away from faithfulness and toward promiscuity.
 
-In the ancestral environment, the Coolidge Effect was self-limiting. A human male might encounter a handful of potential mates in his lifetime. The novelty response would fire occasionally and was constrained by social structures, physical geography, and the simple difficulty of finding new partners.
+Before the modern age, the Coolidge Effect was self-limiting. A human male might encounter a handful of potential mates in his lifetime. The novelty response would fire occasionally and was constrained by social structures, physical geography, and the simple difficulty of finding new partners.
 
 Internet pornography removes every constraint.
 
