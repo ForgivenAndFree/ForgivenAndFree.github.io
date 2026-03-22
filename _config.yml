@@ -1,6 +1,6 @@
 title: "Free Indeed"
 description: "A Lutheran Method for Escaping the Pornography Trap"
-baseurl: "/free_indeed"
+baseurl: ""
 url: "https://forgivenandFree.github.io"
 
 remote_theme: pages-themes/minimal@v0.2.0
