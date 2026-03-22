@@ -3,10 +3,6 @@ description: "A Lutheran Method for Escaping the Pornography Trap"
 baseurl: ""
 url: "https://forgivenandFree.github.io"
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
 defaults:
   - scope:
       path: "chapters"
