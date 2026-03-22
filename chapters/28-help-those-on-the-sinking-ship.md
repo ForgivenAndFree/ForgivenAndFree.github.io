@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 28: Help Those on the Sinking Ship"
+---
+
 # Chapter 28: Help Those on the Sinking Ship
 
 > *"Brothers and sisters, if someone is caught in a sin, you who live by the Spirit should restore that person gently. But watch yourselves, or you also may be tempted."*
@@ -219,3 +224,11 @@ In the name of the Father and of the Son and of the Holy Spirit. Amen.
 *— Proverbs 24:11*
 
 *Go gently. Go humbly. Go in the power of the Spirit. And bring them home.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/27-living-free">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/29-for-partners">Next →</a></span>
+</nav>

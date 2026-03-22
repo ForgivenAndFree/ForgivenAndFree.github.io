@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 11: Deconstructing the Lies — Boredom, Concentration, and Energy"
+---
+
 # Chapter 11: Deconstructing the Lies — Boredom, Concentration, and Energy
 
 > *"There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of God, for apart from Him who can eat or who can have enjoyment?"* — Ecclesiastes 2:24-25
@@ -231,3 +236,11 @@ And you are receiving back, from the hand of a generous God, the good gifts He a
 ### A Prayer
 
 *Lord God, Creator of all good things, forgive me for having chased counterfeits when Your real gifts were right in front of me. You made a world full of beauty, purpose, and genuine pleasure, and I traded it for a screen and a dopamine hit. Open my eyes to see what I have lost. Open my hands to receive what You offer. Restore in me the capacity for simple joy — the joy of work well done, of a book well read, of a conversation with someone I love, of a walk through Your creation. Lift the fog. Return what the locusts have eaten. Through Jesus Christ, who came that I might have life, and have it abundantly. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/10-stress-and-relaxation">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/12-what-am-i-giving-up">Next →</a></span>
+</nav>

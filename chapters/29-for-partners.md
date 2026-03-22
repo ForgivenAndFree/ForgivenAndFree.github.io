@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 29: For Partners and Loved Ones"
+---
+
 # Chapter 29: For Partners and Loved Ones
 
 > *"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."*
@@ -269,3 +274,11 @@ In the name of the Father and of the Son and of the Holy Spirit. Amen.
 *— Psalm 34:18*
 
 *He is near. He is near to you right now. And He will not let you go.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/28-help-those-on-the-sinking-ship">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/30-checklist-and-affirmations">Next →</a></span>
+</nav>

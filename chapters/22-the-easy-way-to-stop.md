@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 22: The Easy Way to Stop — Gospel Freedom"
+---
+
 # Chapter 22: The Easy Way to Stop — Gospel Freedom
 
 > *"So if the Son sets you free, you will be free indeed."*
@@ -211,3 +216,11 @@ Think: "I'm free — and in three weeks, even the last echo of the trap will be 
 ## A Prayer
 
 *Lord Jesus Christ, You who are the Truth that sets free: I stand in Your truth today. Not in my strength — I have none that suffices. Not in my track record — it is littered with failures. Not in my resolutions — they have crumbled before. I stand in Your truth: that this trap gives me nothing, that Your cross gives me everything, that my baptism defines me, and that Your Spirit empowers me. You have opened my eyes today — not by my willpower but by Your truth. I see the trap. I see its emptiness. And I see the open door You have set before me. By Your Spirit, I am walking out. Here I stand. I can do no other. God help me. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/21-false-incentives">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/23-the-withdrawal-period">Next →</a></span>
+</nav>

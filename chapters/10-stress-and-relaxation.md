@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 10: Deconstructing the Lies — Stress and Relaxation"
+---
+
 # Chapter 10: Deconstructing the Lies — Stress and Relaxation
 
 > *"Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls."* — Matthew 11:28-29
@@ -149,3 +154,11 @@ You were designed for rest. Not the counterfeit rest of a crashed dopamine syste
 ### A Prayer
 
 *Father, I am weary and burdened. I have carried the weight of this addiction for years, and I have mistaken the chains for comfort. I have called the prison "relaxation" and the poison "rest." Forgive me. You have promised rest to all who come to You — real rest, lasting rest, rest that does not create its own restlessness. Teach me to be still and know that You are God. Teach me to receive rather than to grasp. Heal my body's capacity for genuine peace. Restore what the locusts have eaten. And bring me, at last, to the rest that remains for Your people — the rest that is not a crash after a storm, but the quiet confidence of a child held in its Father's arms. Through Jesus Christ, who is our peace. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/09-law-cannot-save">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/11-boredom-concentration-energy">Next →</a></span>
+</nav>

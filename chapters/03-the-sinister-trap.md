@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 3: Why Is It Difficult to Stop? — The Sinister Trap"
+---
+
 # Chapter 3: Why Is It Difficult to Stop? — The Sinister Trap
 
 > *"Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour."*
@@ -200,3 +205,11 @@ In the next chapter, we will examine the first component — the neurology — i
 *I receive it, Lord. Help me to see it.*
 
 *In the name of Jesus Christ, my Lord. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/02-the-easy-method">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/04-neuroscience-of-the-trap">Next →</a></span>
+</nav>

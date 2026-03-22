@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 30: The Checklist, Gospel Affirmations, and Resources"
+---
+
 # Chapter 30: The Checklist, Gospel Affirmations, and Resources
 
 > *"It is finished."*
@@ -225,3 +230,11 @@ We ask all this in the name of Jesus Christ, Your Son, our Lord, who lives and r
 
 *"Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us, to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen."*
 — Ephesians 3:20-21 (ESV)
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/29-for-partners">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span></span>
+</nav>

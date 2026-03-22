@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 16: Just One Peek — The Serpent's Oldest Lie"
+---
+
 # Chapter 16: Just One Peek — The Serpent's Oldest Lie
 
 > *"Now the serpent was more crafty than any of the wild animals the Lord God had made. He said to the woman, 'Did God really say, "You must not eat from any tree in the garden"?'"* — Genesis 3:1
@@ -185,3 +190,11 @@ It cannot fool you anymore.
 ---
 
 *Lord God, You who saw through the serpent's cunning from the beginning — open my eyes to see "just one peek" for what it truly is: not a small indulgence but the entire trap. Destroy this lie in my mind so thoroughly that it never gains purchase again. When the whisper comes, let me hear not the serpent's voice but Yours — the voice that called me by name in baptism, the voice that says I am Yours and need nothing that the enemy offers. Grant me not the willpower to resist but the wisdom to see that there is nothing to resist — only poison dressed as pleasure, only death dressed as life. In the name of Jesus, who defeated the serpent's lies in the wilderness and on the cross. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/15-beware-of-cutting-down">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/17-casual-users">Next →</a></span>
+</nav>

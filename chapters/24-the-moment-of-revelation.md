@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 24: Freedom Is a Promise, Not a Feeling"
+---
+
 # Chapter 24: Freedom Is a Promise, Not a Feeling
 
 > *"Then their eyes were opened, and they recognized him."*
@@ -172,3 +177,11 @@ Because the truth sets free. It always has. It always will.
 ## A Prayer
 
 *Lord Jesus, You walked with the disciples on the road to Emmaus before they recognized You. You walked with Luther through years of struggle before the truth broke through. And You are walking with me now — in Your Word, in my Baptism, in the quiet work of Your Spirit in my healing brain. I do not demand a dramatic feeling. I do not require a sign. I trust Your promise whether I feel it or not: "You will know the truth, and the truth will set you free." Your Word is enough. My Baptism is enough. Your body and blood are enough. Keep me in the truth, sustain me through Your means of grace, and drown the old Adam daily. And whatever freedom looks like — sudden or gradual, dramatic or quiet — let my first word be not "I did it" but "Thank You." In Your holy name. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/23-the-withdrawal-period">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/25-the-final-session">Next →</a></span>
+</nav>

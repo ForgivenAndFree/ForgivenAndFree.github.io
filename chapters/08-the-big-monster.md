@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 8: The Big Monster — Brainwashing and the Devil's Lies"
+---
+
 # Chapter 8: The Big Monster — Brainwashing and the Devil's Lies
 
 > *"And no wonder, for Satan himself masquerades as an angel of light."* — 2 Corinthians 11:14
@@ -175,3 +180,11 @@ The darkness cannot overcome the light. It never could.
 ### A Prayer
 
 *Lord Jesus, You are the Light of the world. You said that whoever follows You will never walk in darkness but will have the light of life. I have walked in darkness — believing lies about what I need, what I deserve, what gives me pleasure. The big monster has spoken in my ear for years, and I have listened. Shine Your light into every corner of my mind. Expose every lie. Demolish every false argument. Take captive every thought that sets itself up against the truth. I do not need what the brainwashing says I need. I need You — Your Word, Your Sacraments, Your presence, Your grace. Drive out the darkness, and let me walk in the light. For You are the Truth, and the truth sets free. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/07-crossing-the-red-line">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/09-law-cannot-save">Next →</a></span>
+</nav>

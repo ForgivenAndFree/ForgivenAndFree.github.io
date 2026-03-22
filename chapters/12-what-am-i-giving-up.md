@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 12: What Am I Giving Up? — Absolutely Nothing"
+---
+
 # Chapter 12: What Am I Giving Up? — Absolutely Nothing
 
 > *"So if the Son sets you free, you will be free indeed."* — John 8:36
@@ -208,3 +213,11 @@ And you will look back, as thousands of former users have looked back, and you w
 *The cell is not your friend. The darkness is not your comfort. The chains are not your security. They are a prison, and the door is open, and the sunlight is real, and you have nothing — nothing — to lose by walking through it.*
 
 *Lord Jesus, You who came to proclaim freedom for the captives and release from darkness for the prisoners — open my eyes to see that my chains are worthless, that my cell is not my home, that the sunlight beyond the door is not something to fear but something to run toward. Take from me what is killing me and give me what You have promised: life, and life abundantly. You have set me free. Help me to believe it. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/11-boredom-concentration-energy">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/13-the-void">Next →</a></span>
+</nav>

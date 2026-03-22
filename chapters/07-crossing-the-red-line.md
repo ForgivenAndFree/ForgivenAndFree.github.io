@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 7: Crossing the Red Line — Tolerance, Escalation, and Desensitization"
+---
+
 # Chapter 7: Crossing the Red Line — Tolerance, Escalation, and Desensitization
 
 > *"You shall have no other gods before me."* — Exodus 20:3
@@ -160,3 +165,11 @@ The red lines you crossed can be confessed and absolved. The neural pathways can
 ### A Prayer
 
 *Heavenly Father, I confess that I have crossed lines I swore I would never cross. I have consumed content that shames me to remember. I have watched my own values erode under the relentless pressure of a desensitized brain, and I have blamed myself for what the addiction was doing to me. Forgive me — not only for the sin, but for believing that the sin is who I am. Remind me that I am Yours: baptized, redeemed, and named. Heal my brain as only You can. Restore the receptors. Weaken the pathways. Rebuild what the locusts have eaten. And teach me to worship You alone — the only God who gives more than He demands. Through Jesus Christ, my Lord. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/06-the-backward-mechanism">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/08-the-big-monster">Next →</a></span>
+</nav>

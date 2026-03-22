@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 18: The Social Media Trap — Feeding the Monster Through the Side Door"
+---
+
 # Chapter 18: The Social Media Trap — Feeding the Monster Through the Side Door
 
 > *"What good is it for someone to gain the whole world, yet forfeit their soul? Or what can anyone give in exchange for their soul?"* — Mark 8:36-37
@@ -165,3 +170,11 @@ The Gospel doesn't make you a better prisoner. It makes you a free person. Live 
 ---
 
 *Lord Jesus, who saw through every disguise and trap that the enemy set before You in the wilderness — give me that same clarity of sight. Show me the side doors I've been walking through, the subtle ways I've been feeding the monster I thought was dead. Free me from the self-deception that says "It's not real porn" when my brain and my heart know otherwise. Make me wise as a serpent to see the algorithm's manipulation, and innocent as a dove in my desire for genuine purity — not the purity of legalism but the purity of a heart that clings to You alone. Whatever my heart has clung to and relied upon besides You, reveal it, forgive it, and redirect my heart to its true home. In Your holy name. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/17-casual-users">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/19-timing">Next →</a></span>
+</nav>

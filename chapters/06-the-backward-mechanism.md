@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 6: The Backward Mechanism — Why Porn Gets Credit for What It Causes"
+---
+
 # Chapter 6: The Backward Mechanism — Why Porn Gets Credit for What It Causes
 
 > *"Woe to those who call evil good and good evil, who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter!"* — Isaiah 5:20
@@ -161,3 +166,11 @@ When you understand the backward mechanism, you don't just see through a lie abo
 ### A Prayer
 
 *Lord God, You are the God of truth, and every lie withers in Your presence. I confess that I have believed the lie — that this poison was medicine, that this slavery was freedom, that this emptiness was pleasure. Open my eyes to see the backward mechanism for what it is: the deceiver's trick to keep me running in circles. Grant me the clarity to see that pornography gives me nothing, takes everything, and creates the very suffering it pretends to relieve. And root my identity not in my addiction but in my Baptism, where You named me Your own. Through Jesus Christ, who is the Way, the Truth, and the Life. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/05-the-little-monster">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/07-crossing-the-red-line">Next →</a></span>
+</nav>

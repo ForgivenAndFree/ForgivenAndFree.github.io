@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 1: Introduction — Why This Book Exists"
+---
+
 # Chapter 1: Introduction — Why This Book Exists
 
 > *"For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery."*
@@ -200,3 +205,11 @@ So turn the page. Read carefully. Don't skip ahead. And prepare to be surprised 
 *I do not trust in my own resolve. I trust in Your promises. You have said that whom the Son sets free is free indeed. I believe it, Lord. Help my unbelief.*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/02-the-easy-method">Next →</a></span>
+</nav>

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 27: Living Free — Baptismal Identity and the Means of Grace"
+---
+
 # Chapter 27: Living Free — Baptismal Identity and the Means of Grace
 
 > *"I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me."*
@@ -261,3 +266,11 @@ In the name of the Father and of the Son and of the Holy Spirit. Amen.
 *— Galatians 5:1*
 
 *Stand firm. You are free. Christ has made it so.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/26-when-you-stumble">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/28-help-those-on-the-sinking-ship">Next →</a></span>
+</nav>

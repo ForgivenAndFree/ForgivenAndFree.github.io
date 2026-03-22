@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 17: Casual Users and the Illusion of Control"
+---
+
 # Chapter 17: Casual Users and the Illusion of Control
 
 > *"To some who were confident of their own righteousness and looked down on everyone else, Jesus told this parable: 'Two men went up to the temple to pray, one a Pharisee and the other a tax collector.'"* — Luke 18:9-10
@@ -189,3 +194,11 @@ That prayer is available to you. Right now.
 ---
 
 *Merciful Father, forgive me for the pride that says, "I'm not that bad." Forgive me for measuring my bondage against others' and calling the comparison freedom. Open my eyes to see that any use — heavy or light, frequent or occasional — is the same trap, the same lie, the same poison. Free me not from heavy chains only but from light ones too, for both are chains, and neither is Your will for my life. Grant me the humility of the tax collector, who knew his need and received Your mercy. Let me stop managing my slavery and start receiving Your freedom. Through Jesus Christ, who came not for the righteous but for sinners — including this one. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/16-just-one-peek">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/18-social-media-trap">Next →</a></span>
+</nav>

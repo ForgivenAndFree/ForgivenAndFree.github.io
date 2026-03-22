@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 9: Law Cannot Save — Why Willpower Is a Theology of Glory"
+---
+
 # Chapter 9: Law Cannot Save — Why Willpower Is a Theology of Glory
 
 > *"For it is by grace you have been saved, through faith — and this is not from yourselves, it is the gift of God — not by works, so that no one can boast."* — Ephesians 2:8-9
@@ -185,3 +190,11 @@ The door has been open this whole time.
 ### A Prayer
 
 *Merciful God, I confess that I have tried to save myself. I have counted days. I have measured streaks. I have gritted my teeth and clenched my fists and told myself that this time — THIS time — my willpower would be enough. And I have failed. Again and again and again. Not because I am uniquely weak, but because the Law was never designed to save. It was designed to bring me to Christ. And here I am — at the end of myself, at the foot of the cross. I cannot do this on my own. I was never supposed to. Free me not through my strength but through Your truth. Open my eyes to see that there is nothing to give up, nothing to mourn, nothing to resist — only a trap to escape and a gift to receive. For Christ's sake, who has done everything I could not do. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/08-the-big-monster">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/10-stress-and-relaxation">Next →</a></span>
+</nav>

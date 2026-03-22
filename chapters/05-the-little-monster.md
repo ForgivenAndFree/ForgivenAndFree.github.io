@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 5: The Little Monster — Understanding Physical Withdrawal"
+---
+
 # Chapter 5: The Little Monster — Understanding Physical Withdrawal
 
 > *"A mighty fortress is our God, a bulwark never failing; our helper He amid the flood of mortal ills prevailing. For still our ancient foe doth seek to work us woe; his craft and power are great, and armed with cruel hate, on earth is not his equal."*
@@ -254,3 +259,11 @@ Kill the big monster, and the little monster's days are numbered.
 *A mighty fortress is my God. In that fortress I rest. Let the little monster rage outside the walls — its voice grows fainter by the hour, and soon it will be silent forever.*
 
 *In the name of the Father, and of the Son, and of the Holy Spirit. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/04-neuroscience-of-the-trap">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/06-the-backward-mechanism">Next →</a></span>
+</nav>

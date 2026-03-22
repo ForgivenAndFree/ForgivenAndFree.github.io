@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 21: False Incentives and the Theology of the Cross"
+---
+
 # Chapter 21: False Incentives and the Theology of the Cross
 
 > *"For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God."*
@@ -186,3 +191,11 @@ Put down the hammer. You won't miss it. You never liked it. You only thought you
 ## A Prayer
 
 *Lord God, You are the God who reveals Yourself not in power and glory but on a cross. Teach me to see through the eyes of the cross. Strip away my theology of glory — my need to be a hero, my desire for applause, my insistence on earning what You freely give. I don't need incentives to escape a prison. I need eyes to see that the door is open and Christ is standing on the other side. Grant me the humility to stop performing and the honesty to simply walk out. I make no claims to strength. I make only this confession: porn gives me nothing, and You give me everything. In the name of Jesus, who called things what they are, and who set me free not by my effort but by His truth. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/20-will-i-miss-the-fun">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/22-the-easy-way-to-stop">Next →</a></span>
+</nav>

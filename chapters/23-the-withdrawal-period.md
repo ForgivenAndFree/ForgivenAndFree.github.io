@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 23: The Withdrawal Period — Three Weeks to Freedom"
+---
+
 # Chapter 23: The Withdrawal Period — Three Weeks to Freedom
 
 > *"Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness."*
@@ -206,3 +211,11 @@ The whisper has no comeback for that. It can create doubt only if you allow the 
 ## A Prayer
 
 *Heavenly Father, You have clothed me in the armor of Your truth. The belt of truth is fastened: porn gives me nothing. The breastplate of Christ's righteousness protects my heart from accusation. The shield of faith deflects every flaming arrow of doubt. The sword of Your Word cuts through every lie. I know that these days of adjustment are not a punishment but a healing. The parasite is dying, and I rejoice in its death. When the old pathways fire, I will not panic — I will praise You, because every unfed craving is a weakening chain. Strengthen me, Lord — not to endure deprivation, for there is nothing to be deprived of — but to see clearly, to rejoice continually, and to walk in the freedom You have given. In Christ's mighty name. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/22-the-easy-way-to-stop">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/24-the-moment-of-revelation">Next →</a></span>
+</nav>

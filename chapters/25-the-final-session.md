@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 25: The Final Session and the Solemn Vow"
+---
+
 # Chapter 25: The Final Session and the Solemn Vow
 
 > *"It is finished."*
@@ -258,3 +263,11 @@ You are free.
 *Here I stand. I can do no other. God help me.*
 
 *Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/24-the-moment-of-revelation">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/26-when-you-stumble">Next →</a></span>
+</nav>

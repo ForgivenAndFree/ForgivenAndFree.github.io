@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 26: When You Stumble — Confession, Absolution, and Rising Again"
+---
+
 # Chapter 26: When You Stumble — Confession, Absolution, and Rising Again
 
 > *"If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness."*
@@ -332,3 +337,11 @@ In the name of the Father and of the Son and of the Holy Spirit. Amen.
 *— Proverbs 24:16*
 
 *The rising is not your work. The rising is His.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/25-the-final-session">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/27-living-free">Next →</a></span>
+</nav>

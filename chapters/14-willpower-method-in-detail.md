@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 14: The Willpower Method in Detail — Romans 7 Without Romans 8"
+---
+
 # Chapter 14: The Willpower Method in Detail — Romans 7 Without Romans 8
 
 > *"For I do not do the good I want to do, but the evil I do not want to do — this I keep on doing. What a wretched man I am! Who will rescue me from this body that is subject to death?"* — Romans 7:19, 24
@@ -245,3 +250,11 @@ Not "try harder." But "be set free."
 *I cannot do this by my own reason or strength. But You can. And You will. Because You have promised. And Your promises do not fail.*
 
 *In the name of Jesus Christ, who is my freedom. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/13-the-void">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/15-beware-of-cutting-down">Next →</a></span>
+</nav>

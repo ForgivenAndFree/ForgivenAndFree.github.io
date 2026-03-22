@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 15: Beware of Cutting Down — The Porn Diet Trap"
+---
+
 # Chapter 15: Beware of Cutting Down — The Porn Diet Trap
 
 > *"Are you so foolish? After beginning by means of the Spirit, are you now trying to finish by means of the flesh?"* — Galatians 3:3
@@ -256,3 +261,11 @@ Christ offers you no chain at all.
 *Help me to stand firm in the freedom You give. Not to manage my slavery, but to walk out of it entirely, into the daylight, into the life You created me to live.*
 
 *Through Your Spirit, who began this good work and will bring it to completion — not by my flesh, not by my rules, not by my willpower, but by Your truth and Your grace. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/14-willpower-method-in-detail">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/16-just-one-peek">Next →</a></span>
+</nav>

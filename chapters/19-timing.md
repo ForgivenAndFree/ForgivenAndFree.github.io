@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 19: Timing — When Is the Right Time? Now."
+---
+
 # Chapter 19: Timing — When Is the Right Time? Now.
 
 > *"As God's co-workers we urge you not to receive God's grace in vain. For he says, 'In the time of my favor I heard you, and in the day of salvation I helped you.' I tell you, now is the time of God's favor, now is the day of salvation."* — 2 Corinthians 6:1-2
@@ -191,3 +196,11 @@ The time is now. Dive in.
 ---
 
 *Lord of time and eternity, forgive me for the arrogance of assuming I have unlimited tomorrows and the cowardice of using that assumption to avoid what You're calling me to do today. Forgive me for turning "preparation" into procrastination and "wisdom" into delay. You have told me that NOW is the day of salvation. Help me to believe it. Give me the courage of the diver rather than the timidity of the toe-dipper. I don't need perfect circumstances; I need Your perfect grace, which You have already given in abundance. Let today be the day. Not because I'm strong, but because You are. Not because the timing is right, but because Your timing is always right, and You are saying: now. In the name of Jesus, who came in the fullness of time and never once said "not yet" to anyone who sought His mercy. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/18-social-media-trap">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/20-will-i-miss-the-fun">Next →</a></span>
+</nav>

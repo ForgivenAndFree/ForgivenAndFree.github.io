@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 2: The Easy Method — A New Frame of Mind"
+---
+
 # Chapter 2: The Easy Method — A New Frame of Mind
 
 > *"Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light."*
@@ -182,3 +187,11 @@ And do not be afraid. You are not about to enter a battle. You are about to wake
 *You have promised that Your yoke is easy and Your burden is light. I believe it, Lord. Teach me to receive what You have already given.*
 
 *In Your holy name. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/01-introduction">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/03-the-sinister-trap">Next →</a></span>
+</nav>

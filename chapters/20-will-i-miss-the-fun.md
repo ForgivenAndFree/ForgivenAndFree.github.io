@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 20: Will I Miss the Fun? — The Envy Trap"
+---
+
 # Chapter 20: Will I Miss the Fun? — The Envy Trap
 
 > *"I have learned to be content whatever the circumstances. I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want. I can do all this through him who gives me strength."* — Philippians 4:11-13
@@ -189,3 +194,11 @@ You are not missing the fun. You are, for perhaps the first time, arriving at it
 ---
 
 *Father of all true joy, forgive me for the times I've looked at the prison and envied the prisoners. Forgive me for believing the lie that freedom is deprivation and bondage is pleasure. Open my eyes to see what I have in You — the energy, the clarity, the peace, the genuine intimacy, the full emotional life that You designed me to enjoy. When the phantom limb tingles, when the dying pathway fires its last signals, let me recognize them for what they are: not evidence that I'm missing something, but proof that I'm healing. Fill me with such contentment in You that the counterfeits lose all their shimmer. You have promised eternal pleasures at Your right hand — let me live today in the foretaste of that promise, so satisfied in Your gifts that I never again covet the poison I left behind. Through Jesus Christ, the bread of life, who alone satisfies the hungry soul. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/19-timing">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/21-false-incentives">Next →</a></span>
+</nav>

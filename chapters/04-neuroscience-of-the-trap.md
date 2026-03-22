@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 4: The Neuroscience of the Trap — Dopamine, Novelty, and the Reward Circuit"
+---
+
 # Chapter 4: The Neuroscience of the Trap — Dopamine, Novelty, and the Reward Circuit
 
 > *"I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well."*
@@ -241,3 +246,11 @@ The purpose of this chapter was not to give you another reason to white-knuckle 
 *And as my brain heals, let me see Your world with new eyes — the beauty, the richness, the deep pleasure of a life lived in Your light. Let me taste and see that You are good.*
 
 *Through Jesus Christ, who makes all things new. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/03-the-sinister-trap">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/05-the-little-monster">Next →</a></span>
+</nav>

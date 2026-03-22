@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chapter 13: The Void — Porn Doesn't Fill It, It Creates It"
+---
+
 # Chapter 13: The Void — Porn Doesn't Fill It, It Creates It
 
 > *"As a deer pants for flowing streams, so pants my soul for you, O God. My soul thirsts for God, for the living God."* — Psalm 42:1-2
@@ -245,3 +250,11 @@ That is where this method takes you. Not to a place of gritted teeth and white k
 *And fill the deeper void — the one that no substance or experience can touch — with Yourself. You have made me for Yourself, and my heart is restless until it rests in You. Let me rest in You. Let me drink living water. Let me come home.*
 
 *Through Jesus Christ, the living water, the bread of life, the way, the truth, and the life. Amen.*
+
+---
+
+<nav style="display:flex;justify-content:space-between;padding:1em 0;">
+<span><a href="{{ site.baseurl }}/chapters/12-what-am-i-giving-up">← Previous</a></span>
+<span><a href="{{ site.baseurl }}/">Table of Contents</a></span>
+<span><a href="{{ site.baseurl }}/chapters/14-willpower-method-in-detail">Next →</a></span>
+</nav>
