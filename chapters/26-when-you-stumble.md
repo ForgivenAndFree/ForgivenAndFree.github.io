@@ -315,7 +315,7 @@ Luther said, "This life therefore is not righteousness but growth in righteousne
 
 You are on the road. You tripped. The road is still there. Get up. Keep walking. The destination hasn't moved.
 
-And remember: **YIPPEE! I'M FREE!** A stumble doesn't change that. The monster is still dying. You are still rising. Christ is still on His throne. And you — you, specifically, you who are reading these words with shame on your face and hope in your heart — you are still His.
+And remember: **Hallelujah! I'm free!** A stumble doesn't change that. The monster is still dying. You are still rising. Christ is still on His throne. And you — you, specifically, you who are reading these words with shame on your face and hope in your heart — you are still His.
 
 ---
 

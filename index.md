@@ -124,7 +124,7 @@ In Christ,
 22. [The Easy Way to Stop — Gospel Freedom]({{ site.baseurl }}/chapters/22-the-easy-way-to-stop)
 23. [The Withdrawal Period — Three Weeks to Freedom]({{ site.baseurl }}/chapters/23-the-withdrawal-period)
 24. [Freedom Is a Promise, Not a Feeling]({{ site.baseurl }}/chapters/24-the-moment-of-revelation)
-25. [The Final Session and the Solemn Vow]({{ site.baseurl }}/chapters/25-the-final-session)
+25. [The Solemn Vow]({{ site.baseurl }}/chapters/25-the-final-session)
 26. [When You Stumble — Confession, Absolution, and Rising Again]({{ site.baseurl }}/chapters/26-when-you-stumble)
 27. [Living Free — Baptismal Identity and the Means of Grace]({{ site.baseurl }}/chapters/27-living-free)
 28. [Help Those on the Sinking Ship]({{ site.baseurl }}/chapters/28-help-those-on-the-sinking-ship)

@@ -203,7 +203,7 @@ This is not a positive affirmation. This is not a self-help mantra. This is a co
 
 Before we proceed, two cautions.
 
-**First: don't rush the final session.** If you haven't finished reading these chapters, finish them first. The method works by removing brainwashing, and the brainwashing is removed progressively, chapter by chapter. Skipping ahead is like leaving surgery before the surgeon is done. You might feel better, but the job isn't finished, and the wound will reopen.
+**First: don't rush ahead.** If you haven't finished reading these chapters, finish them first. The method works by removing brainwashing, and the brainwashing is removed progressively, chapter by chapter. Skipping ahead is like leaving surgery before the surgeon is done. You might feel better, but the job isn't finished, and the wound will reopen.
 
 **Second: don't think in terms of survival.** The language of "I have to survive three weeks" is the language of the willpower method. It presupposes that the next three weeks will be an ordeal to endure. They won't. You are free right now. The next three weeks are simply the period during which the little monster — the fading neurological echo — will make its last, pathetic attempts to be fed. And each attempt is not a crisis. It is a confirmation. Every whisper from the little monster is proof that it's dying. Every craving that you observe without obeying is the sound of a parasite starving.
 

@@ -40,9 +40,9 @@ The world may use that label. Certain recovery programs may insist on it. But it
 
 The decision is made. It is the right decision. Every rational examination confirms it. There is nothing to doubt. If the big monster sends up a pang of doubt — "But what if you're missing out? What if you need it someday?" — recognize it for what it is: the death throes of a brainwashing that is losing its grip. Do not engage with the doubt. Simply observe it, label it ("Ah, there's the big monster, trying one last trick"), and let it pass. The doubts will fade. They always do.
 
-**5. Don't try NOT to think about pornography. Whenever you think about it, celebrate: "YIPPEE! I'M FREE!"**
+**5. Don't try NOT to think about pornography. Whenever you think about it, celebrate: "Hallelujah! I'm free! Christ is risen, and so am I!"**
 
-This is critical. If you tell yourself "Don't think about porn," you will think about porn constantly. The brain cannot process a negative command. Instead, whenever the thought arises — and it will, especially in the early days — let it be a trigger for celebration, not craving. "I just thought about porn. And I'm free from it! I never have to go back to that misery. YIPPEE!" You are retraining your brain's association. Where there was craving, you are building gratitude. Where there was longing, you are planting joy.
+This is critical. If you tell yourself "Don't think about porn," you will think about porn constantly. The brain cannot process a negative command. Instead, whenever the thought arises — and it will, especially in the early days — let it be a trigger for celebration, not craving. "I just thought about porn. And I'm free from it! I never have to go back to that misery. Hallelujah!" You are retraining your brain's association. Where there was craving, you are building gratitude. Where there was longing, you are planting joy.
 
 **6. Do not use substitutes. Do not change your life just because you have quit.**
 
@@ -94,7 +94,7 @@ Speak these affirmations aloud. Speak them in the morning. Speak them when the o
 
 - **My body is a temple of the Holy Spirit. I was bought with a price.** *"Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body."* — 1 Corinthians 6:19-20 (ESV)
 
-- **YIPPEE! I'M FREE!** *"So if the Son sets you free, you will be free indeed."* — John 8:36 (ESV)
+- **Hallelujah! I'm free!** *"So if the Son sets you free, you will be free indeed."* — John 8:36 (ESV)
 
 ---
 
@@ -200,7 +200,7 @@ So hear this, dear friend, and hear it well: **You are not walking out of this b
 
 The enemy will try to tell you otherwise. He will whisper that your freedom is temporary, that you are one bad day away from falling back in, that you are fooling yourself. When he does, answer him the way Luther did. Answer him with your Baptism. Answer him with the Gospel. Answer him with the joyful, defiant, irreverent, indomitable cry of a child of God who has been set free:
 
-**YIPPEE! I'M FREE!**
+**Hallelujah! Christ is risen, and I am free!**
 
 *Thanks be to God through Jesus Christ our Lord!* (Romans 7:25)
 

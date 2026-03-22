@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Chapter 25: The Final Session and the Solemn Vow"
+title: "Chapter 25: The Solemn Vow"
 ---
 
-# Chapter 25: The Final Session and the Solemn Vow
+# Chapter 25: The Solemn Vow
 
 > *"It is finished."*
 > — John 19:30 (ESV)
@@ -54,13 +54,15 @@ Say it. Mean it — even if your faith feels small. "Lord, I believe; help my un
 
 ---
 
-## The Final Closure
+## Walking Away
 
-Now, if your last session has already passed — if you've already stopped using while reading this book — then the final session is behind you. Good. You don't need to engineer a ceremonial "last time." The last time was the last time, whenever it was.
+There is no "final session." This is not a farewell. There is no ceremonial last viewing, no "one for the road." The original EasyPeasy method borrows from Allen Carr the idea of a deliberate last session — a conscious, mindful goodbye. That is unchristian counsel. You do not shake hands with the thing that enslaved you. You walk away from it.
 
-If you're still currently using — if you've been reading this book while still in the trap — then here is the moment to stop. Not after one more session. Not tonight as a "farewell." Not this weekend as a "send-off." Now. The next time you would have watched porn, don't. That's it. That's the final session: the one that doesn't happen.
+If you've already stopped using while reading this book — good. That was the last time, whenever it was. You don't need to mark it or remember the date. You don't need to count days from it. It's over.
 
-And when you close the browser for the last time — or when you recognize that you've already closed it for the last time — do not think:
+If you're still currently using — then here is the moment to stop. Not after one more session. Not tonight. Not this weekend. Now. The next time you would have watched porn, don't. Not because you're gritting your teeth, but because there's nothing there for you.
+
+Either way, do not think:
 
 "I must never watch porn again."
 
@@ -84,7 +86,7 @@ Over the next few days and weeks, you will occasionally feel a slight pull — a
 
 When the pull comes, you have two interpretive options. One is the truth. The other is the lie.
 
-**The truth:** "This is an empty, physical sensation — a fading neurochemical echo caused by the first session I ever watched and perpetuated by every session since. It's the little monster, the parasite, dying. Users suffer this their entire lives and never even know what it is. They mistake it for desire and feed it with porn, which makes it worse. But I know what it is, and I'm not feeding it. This pang is the sound of the trap breaking apart. YIPPEE — I'm a non-user!"
+**The truth:** "This is an empty, physical sensation — a fading neurochemical echo caused by the first session I ever watched and perpetuated by every session since. It's the little monster, the parasite, dying. Users suffer this their entire lives and never even know what it is. They mistake it for desire and feed it with porn, which makes it worse. But I know what it is, and I'm not feeding it. This pang is the sound of the trap breaking apart. Hallelujah — I'm free!"
 
 **The lie:** "I want porn and I can't have it."
 
@@ -168,7 +170,7 @@ Whether days are good or bad — and you will have both, because this is life �
 
 And on good days — and there will be many, increasingly many — let the goodness wash over you. Let the colors be brighter, the food tastier, the laughter warmer, the relationships deeper. And when you think of porn, which you will occasionally, think:
 
-**"YIPPEE! I'm free!"**
+**"Hallelujah, I'm free! Christ is risen, and so am I!"**
 
 Not ironically. Not sarcastically. With genuine, grateful, childlike joy. You have escaped. You are out. The air is clean and the sun is warm and the trap is behind you.
 
@@ -244,7 +246,7 @@ It is finished.
 
 You are free.
 
-**YIPPEE!**
+**Hallelujah! Christ is risen, and you are free!**
 
 ---
 
