@@ -29,6 +29,28 @@ Sin is a lie. Porn is a lie. The devil is the father of lies. And lies collapse 
 
 ---
 
+## Why NoFap, Paid Programs, and Accountability Culture Don't Work
+
+If you've tried to quit pornography before, you've probably encountered some combination of the following: NoFap communities, paid recovery programs, accountability software, day-counting apps, and online courses that charge monthly fees to teach you how to stop. Some of these are well-intentioned. Some are explicitly Christian. Some even preach the Gospel.
+
+**They still don't work.** Here's why.
+
+**They treat porn as something you're giving up.** Every one of these approaches — even the good ones — operates on the assumption that pornography provides a genuine pleasure or benefit that you must learn to live without. NoFap frames quitting as an act of heroic self-denial: count the days, celebrate streaks, mourn relapses. Paid programs sell you ongoing support because the assumption is that the fight never ends. Accountability software watches you like a parole officer because the assumption is that you *want* to offend and must be restrained.
+
+All of these reinforce the central lie: that porn gives you something real, and freedom means learning to go without it.
+
+**This is a theology of the Law wearing different clothes.** Whether the message is "be disciplined" (NoFap), "follow our program" (paid services), or "resist temptation through accountability" (church culture), the underlying structure is the same: *here is what you must do — now do it.* The Law cannot save. It never could.
+
+**Day-counting keeps you enslaved.** When you count days since your last "relapse," you are defining your entire identity by your relationship to pornography. Day 1, Day 30, Day 90 — every number is a measurement of distance from porn, which means porn is still the center of your universe. You haven't been set free. You've been put on a leash. A longer leash is still a leash.
+
+**Paid services have a financial incentive to keep you struggling.** This is not necessarily cynical — many of these organizations are run by sincere Christians who genuinely want to help. But a program that charges you monthly for ongoing recovery has a structural problem: your freedom is their lost revenue. The model itself assumes you will need help indefinitely. It is recovery as subscription service.
+
+Even gospel-focused programs like Setting Captives Free — which teach excellent biblical truth — often still frame the battle in terms that reinforce the trap. Counting days. Viewing pornography as a powerful pleasure you must resist by replacing it with the "greater pleasure" of Christ. But this still concedes the lie. Pornography is not a great pleasure that must be outcompeted. It is a *nothing* — a vacuum pretending to be a feast. You do not need a greater pleasure to replace it any more than you need a greater pleasure to replace hitting yourself in the head with a hammer. You just need to see clearly what the hammer is doing.
+
+**This book is free because freedom is free.** Christ does not charge a subscription. The Gospel is not a 12-week course. You were set free in your Baptism — for free, by grace, through faith. This book asks nothing of you except that you read it and let the truth do its work.
+
+---
+
 ## A Note Before You Begin
 
 **DO NOT SKIP CHAPTERS.**
