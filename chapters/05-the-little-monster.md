@@ -146,6 +146,24 @@ You need not fear it. You need not tremble before it. You need not muster heroic
 
 One little word — the word of truth, the word that says "this craving is not a need, this emptiness is not real, this monster is already dead" — shall fell it.
 
+### The Flesh and the Devil
+
+Scripture speaks of two enemies that the little monster echoes: the sinful flesh and the devil himself.
+
+The flesh — our old Adam, the sinful nature we inherited from the Fall — is the internal soil in which the little monster grows. St. Paul describes it plainly: *"For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh"* (Galatians 5:17). The restlessness, the itch, the vague craving for *something* — this is the flesh doing what the flesh does: desiring what is contrary to the Spirit. The little monster is not some alien invader with no connection to you. It is rooted in your sinful nature, the old Adam who was drowned in your baptism but who keeps trying to crawl back out of the water.
+
+But the flesh does not work alone. Behind the craving stands the tempter. Satan does not need to appear with horns and a pitchfork. He works through the whisper, the suggestion, the seemingly reasonable thought: *"You deserve this. Just once. It's not that bad. You can't help it."* These are the devil's native tongue — lies dressed as common sense. When the little monster whispers, it speaks with the voice of the old Adam, but the script was written by the father of lies.
+
+Here is the remarkable thing, and it runs directly counter to what the brainwashing has taught you: **you do not need to flee from the devil. He flees from you.** St. James writes:
+
+> *"Submit yourselves therefore to God. Resist the devil, and he will flee from you."* (James 4:7)
+
+Notice the order. First, submit to God — acknowledge the truth, rest in what Christ has done, stand on the solid ground of your baptism. Then resist the devil. And the result? *He* flees. Not you. You are not the one running. You are not the one scrambling for safety. You are not the one who must muster heroic courage to survive the encounter. You stand firm in the truth, and the devil — for all his craft and power — turns and runs.
+
+This is the exact opposite of the willpower method. The willpower method imagines that you are locked in a cage with a lion, and your only hope is to be stronger than the lion. No wonder it feels terrifying. No wonder it fails. But the truth is that the lion is on a chain, and the chain is held by Christ, and when you stand in that truth and refuse to believe the lie, the lion slinks away. He has no power over the one who sees through the deception.
+
+The little monster is the flesh craving its old food. The big monster is the devil's brainwashing, telling you the food is necessary. When the brainwashing is destroyed by truth, the flesh still grumbles for a few weeks — but without the devil's amplification, the grumbling is just that: a grumble. A fading whimper from a defeated enemy who is already fleeing.
+
 ---
 
 ## The Practical Reality of Withdrawal
@@ -231,7 +249,7 @@ Kill the big monster, and the little monster's days are numbered.
 
 *Grant me patience in these days of dying. When the little monster whispers, remind me what it is: not a need, not a friend, not a part of me — but a parasite, starving, weakening, fading. When the restlessness comes, let me sit with it calmly, knowing it will pass. When the emptiness echoes, sustain me through Your Word and Sacrament — not as a replacement for the old fix, but as the reality of which the old fix was a hollow counterfeit.*
 
-*I take comfort in Your hymn, dear Luther: "His rage we can endure, for lo, his doom is sure." The little monster's doom is sure. It is already dying. I need only wait, and trust, and refuse to feed what is already starving.*
+*I take comfort in the hymn: "His rage we can endure, for lo, his doom is sure." The little monster's doom is sure. It is already dying. I need only wait, and trust, and refuse to feed what is already starving.*
 
 *A mighty fortress is my God. In that fortress I rest. Let the little monster rage outside the walls — its voice grows fainter by the hour, and soon it will be silent forever.*
 

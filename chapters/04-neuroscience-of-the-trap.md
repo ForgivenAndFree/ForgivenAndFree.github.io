@@ -65,7 +65,7 @@ Internet pornography systematically corrupts all three components. Let me show y
 
 ## The Coolidge Effect: Why Internet Porn Is Different
 
-Before we discuss the corruption, we need to understand why internet pornography is a fundamentally different stimulus than anything the human brain evolved to handle.
+Before we discuss the corruption, we need to understand why internet pornography is a fundamentally different stimulus than anything the human brain was created to handle.
 
 The "Coolidge Effect" is named after an old joke about President Calvin Coolidge. The story goes that the President and Mrs. Coolidge were visiting a farm. When Mrs. Coolidge noticed a rooster mating frequently, she asked the farmer to point this out to the President. Coolidge asked, "Same hen every time?" "No, sir, a different hen each time," the farmer replied. "Tell that to Mrs. Coolidge," said the President.
 
