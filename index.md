@@ -9,6 +9,26 @@ title: "Free Indeed: A Lutheran Method for Escaping the Pornography Trap"
 
 ---
 
+## Why This Method Works
+
+**"You will know the truth, and the truth will set you free."** — John 8:32
+
+This book works because the truth sets you free. Not willpower. Not accountability software. Not shame. *Truth.*
+
+Pornography is a lie. It promises pleasure and delivers emptiness. It promises intimacy and produces isolation. It promises relief and creates the very anxiety it claims to cure. And behind every lie stands the father of lies — the devil, who has been a liar from the beginning (John 8:44).
+
+You are not trapped because you have an unbeatable addiction. You are trapped because you believe a lie — that the chemical reaction happening in your body is too powerful, that the cravings are too strong, that you are too weak, that this is just who you are now. **That is the lie.**
+
+The truth is: porn does nothing for you. The slight physical withdrawal — the "little monster" — is so mild you barely notice it in any other context. What keeps you trapped is the *brainwashing* — the "big monster" — the web of false beliefs that tells you porn is your friend, your comfort, your reward, your escape. It is none of these things. It is a trap.
+
+And here is the Gospel: you don't have to defeat this trap through the strength of your own will. Christ has already defeated it. In your Baptism you were buried with Him and raised to new life. You are not defined by your sin. You are defined by His forgiveness. The Law tells you what you must do and leaves you to fail; the Gospel tells you what Christ has done and sets you free.
+
+Sin is a lie. Porn is a lie. The devil is the father of lies. And lies collapse when they meet the truth.
+
+**You are forgiven. And you are free.**
+
+---
+
 ## A Note Before You Begin
 
 **DO NOT SKIP CHAPTERS.**
