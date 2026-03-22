@@ -130,3 +130,9 @@ In Christ,
 28. [Help Those on the Sinking Ship]({{ site.baseurl }}/chapters/28-help-those-on-the-sinking-ship)
 29. [For Partners and Loved Ones]({{ site.baseurl }}/chapters/29-for-partners)
 30. [The Checklist, Gospel Affirmations, and Resources]({{ site.baseurl }}/chapters/30-checklist-and-affirmations)
+
+---
+
+## Resources
+
+- [**Why Lutheranism: Assurance, Despair, and the Architecture of Salvation**]({{ site.baseurl }}/resources/why-lutheranism) — Why the theological tradition behind this book matters, and how Reformed theology generates the very despair that keeps people enslaved.
