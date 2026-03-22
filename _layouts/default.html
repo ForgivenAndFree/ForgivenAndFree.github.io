@@ -7,7 +7,9 @@
   <meta name="description" content="{{ site.description }}">
   <style>
     :root {
-      --sidebar-width: 280px;
+      --sidebar-width: 260px;
+      --content-width: 700px;
+      --gap: 2em;
       --text-color: #333;
       --bg-color: #fff;
       --sidebar-bg: #f5f5f0;
@@ -26,17 +28,28 @@
       line-height: 1.7;
     }
 
-    /* Sidebar */
+    /* Page wrapper — centers the two-column layout */
+    .page-wrapper {
+      max-width: calc(var(--sidebar-width) + var(--gap) + var(--content-width));
+      margin: 0 auto;
+      display: flex;
+      align-items: flex-start;
+      padding: 2em 1em;
+      gap: var(--gap);
+    }
+
+    /* Sidebar — sticks to the left of the content */
     .sidebar {
-      position: fixed;
-      top: 0;
-      left: 0;
       width: var(--sidebar-width);
-      height: 100vh;
+      flex-shrink: 0;
+      position: sticky;
+      top: 2em;
+      max-height: calc(100vh - 4em);
       overflow-y: auto;
       background: var(--sidebar-bg);
-      border-right: 1px solid var(--border-color);
-      padding: 1.5em 1em;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      padding: 1.2em 1em;
       font-size: 0.85em;
     }
 
@@ -85,12 +98,9 @@
 
     /* Main content */
     .main-content {
-      margin-left: var(--sidebar-width);
-      max-width: 750px;
-      margin-right: auto;
-      padding: 2em 3em;
-      /* Center in the remaining space after sidebar */
-      margin-left: calc(var(--sidebar-width) + (100vw - var(--sidebar-width) - 750px) / 2);
+      flex: 1;
+      max-width: var(--content-width);
+      min-width: 0;
     }
 
     .main-content h1 {
@@ -156,53 +166,105 @@
       font-size: 0.95em;
     }
 
-    /* Mobile toggle */
-    .sidebar-toggle {
+    /* Mobile dropdown toggle */
+    .mobile-nav {
       display: none;
-      position: fixed;
-      top: 0.8em;
-      left: 0.8em;
-      z-index: 1000;
+    }
+
+    .mobile-nav summary {
       background: var(--accent);
       color: #fff;
-      border: none;
-      padding: 0.5em 0.7em;
-      font-size: 1.2em;
-      border-radius: 4px;
+      padding: 0.6em 1em;
+      font-size: 1em;
+      font-family: Georgia, 'Times New Roman', serif;
+      border-radius: 6px;
       cursor: pointer;
+      list-style: none;
+      user-select: none;
     }
 
-    @media (max-width: 1100px) {
-      .main-content {
-        margin-left: var(--sidebar-width);
-        margin-right: 1em;
+    .mobile-nav summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .mobile-nav summary::after {
+      content: " ▼";
+      font-size: 0.7em;
+    }
+
+    .mobile-nav[open] summary::after {
+      content: " ▲";
+      font-size: 0.7em;
+    }
+
+    .mobile-nav .mobile-nav-list {
+      background: var(--sidebar-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 0 0 6px 6px;
+      padding: 0.8em 1em;
+      margin-top: 0;
+    }
+
+    .mobile-nav .mobile-nav-list ol {
+      list-style: none;
+      padding: 0;
+      counter-reset: chapter;
+    }
+
+    .mobile-nav .mobile-nav-list ol li {
+      counter-increment: chapter;
+      margin-bottom: 0.2em;
+    }
+
+    .mobile-nav .mobile-nav-list ol li a {
+      color: var(--text-color);
+      text-decoration: none;
+      display: block;
+      padding: 0.3em 0.4em;
+      border-radius: 3px;
+      font-size: 0.9em;
+    }
+
+    .mobile-nav .mobile-nav-list ol li a::before {
+      content: counter(chapter) ". ";
+      color: var(--accent);
+      font-weight: bold;
+    }
+
+    .mobile-nav .mobile-nav-list ol li a:hover {
+      background: rgba(139, 69, 19, 0.1);
+    }
+
+    @media (max-width: 860px) {
+      .page-wrapper {
+        flex-direction: column;
+        padding: 1em;
       }
-    }
-
-    @media (max-width: 768px) {
       .sidebar {
-        transform: translateX(-100%);
-        transition: transform 0.3s;
-        z-index: 999;
+        display: none;
       }
-      .sidebar.open {
-        transform: translateX(0);
-      }
-      .sidebar-toggle {
+      .mobile-nav {
         display: block;
+        margin-bottom: 1em;
       }
       .main-content {
-        margin-left: 0;
-        padding: 3em 1.5em 2em;
+        max-width: 100%;
       }
     }
   </style>
 </head>
 <body>
-  <button class="sidebar-toggle" onclick="document.querySelector('.sidebar').classList.toggle('open')" aria-label="Toggle navigation">&#9776;</button>
-  {% include sidebar.html %}
-  <div class="main-content">
-    {{ content }}
+  <div class="page-wrapper">
+    {% include sidebar.html %}
+    <div class="main-content">
+      <details class="mobile-nav">
+        <summary>Table of Contents</summary>
+        <div class="mobile-nav-list">
+          {% include toc-list.html %}
+        </div>
+      </details>
+      {{ content }}
+    </div>
   </div>
 </body>
 </html>
