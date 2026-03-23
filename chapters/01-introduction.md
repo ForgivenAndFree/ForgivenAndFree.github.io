@@ -50,7 +50,7 @@ When the church's primary strategy against pornography is to preach louder sermo
 
 Martin Luther knew this well. In his commentary on Galatians, he wrote that anyone who tries to be justified by the Law "falls from grace" — not because trying to be good is bad, but because the Law-method puts the burden on *you*, on your effort, on your willpower, on your righteousness. And your willpower, dear reader, is a cracked cistern that holds no water (Jeremiah 2:13).
 
-This is why accountability groups so often fail. Not because accountability is bad — it's not — but because accountability without a change in understanding is just surveillance. And surveillance doesn't remove desire; it only suppresses behavior temporarily. The addict in an accountability group is like a man in a cage with a lion. The cage keeps the lion from eating him, but it doesn't make the lion disappear. He still lives in fear. He still lives with the lion.
+This is why accountability groups so often fail. Not because accountability is bad — it's not — but because accountability without a change in understanding is just surveillance. And surveillance doesn't remove desire; it only suppresses behavior temporarily. The addict in an accountability group is like a man standing next to a caged lion. The bars keep the lion from eating him, but they don't make the lion disappear. He still lives in fear. He still lives with the lion.
 
 This book is going to show you how to make the lion disappear.
 
