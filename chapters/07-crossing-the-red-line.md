@@ -39,7 +39,7 @@ The technical term is *tolerance*: you need more of the substance to achieve the
 
 ## The Coolidge Effect on Steroids
 
-Remember the Coolidge Effect: novelty triggers fresh dopamine release. This is a feature of mammalian reproductive biology — the brain is wired to respond to new potential mates with renewed interest. In nature, this served a purpose. In the context of internet pornography, it becomes a weapon.
+Remember the Coolidge Effect: novelty triggers fresh dopamine release. Since the Fall, our brains are vulnerable to seeking novel stimulation — a consequence of our disordered desires, not of how God originally designed us. In the context of internet pornography, this vulnerability becomes a weapon.
 
 When tolerance reduces your response to familiar content, your brain knows exactly what to do — seek something new. A new face, a new body, a new scenario. The novelty produces a fresh dopamine spike, bypassing the desensitized receptors temporarily. It works. For a while.
 
