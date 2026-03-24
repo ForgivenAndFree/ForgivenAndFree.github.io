@@ -135,7 +135,7 @@ Paul's words to the Philippians are among the most remarkable in all of Scriptur
 
 And yet: contentment. Not because his circumstances were pleasant, but because his satisfaction came from a source that circumstances couldn't touch. "I can do all this through him who gives me strength."
 
-Contentment isn't the absence of desire. It's the presence of a greater satisfaction. It's not that Paul didn't want things. It's that what he had in Christ was so surpassingly great that everything else faded into irrelevance by comparison.
+Contentment isn't the absence of desire. It's the presence of a greater satisfaction. It's not that Paul didn't want things. It's that what he had in Jesus Christ was so surpassingly great that everything else faded into irrelevance by comparison.
 
 This is the secret to navigating the envy trap permanently. You don't need to convince yourself that pornography is terrible (though it is). You don't need to rehearse lists of negative consequences (though they're real). You need to be filled with something so much better that the counterfeit loses its allure entirely.
 

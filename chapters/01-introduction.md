@@ -96,7 +96,7 @@ Luther distinguished between two fundamental theologies: the *theology of glory*
 
 The theology of glory says: "If you try hard enough, if you're disciplined enough, if you're spiritual enough, you can overcome this." It puts the burden on human effort. It sounds inspiring. It is a lie.
 
-The theology of the cross says: "You cannot save yourself. But Christ has saved you. Your freedom is a gift, not an achievement. Receive it."
+The theology of the cross says: "You cannot save yourself. But Jesus Christ has saved you. Your freedom is a gift, not an achievement. Receive it."
 
 The willpower method of quitting pornography is a theology of glory. It tells you that you are the hero of this story, that your strength and discipline and spiritual grit will carry you through. And when you fail — as you inevitably will, because that is what the theology of glory always produces — the failure feels like proof that you are uniquely broken, uniquely weak, uniquely hopeless.
 

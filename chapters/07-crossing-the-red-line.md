@@ -130,7 +130,7 @@ This is the structure of idolatry. An idol always demands more sacrifice for dim
 
 Luther called the human heart a "factory of idols." We are endlessly creative in finding things to worship other than God. But the escalation pattern of porn addiction exposes the idol for what it is — a god that takes everything and gives nothing. A god that promises freedom and delivers slavery. A god that promises pleasure and delivers numbness.
 
-The true God is the opposite. He gives everything and demands nothing we haven't already received from Him. He promises freedom and delivers it. He promises abundant life and means it. The contrast between the idol and the living God could not be sharper — and yet the brainwashing is so powerful that users continue sacrificing to the idol while the living God stands with open arms.
+The true God — Jesus Christ — is the opposite. He gives everything and demands nothing we haven't already received from Him. He promises freedom and delivers it. He promises abundant life and means it. The contrast between the idol and the living God could not be sharper — and yet the brainwashing is so powerful that users continue sacrificing to the idol while the living God stands with open arms.
 
 ## The Hope: Neuroplasticity Works Both Ways
 

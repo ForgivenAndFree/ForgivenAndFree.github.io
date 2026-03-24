@@ -153,11 +153,11 @@ The backward mechanism doesn't only distort your relationship with porn. It dist
 
 But this is another lie built on the backward mechanism. You are not defined by your addiction. You are defined by your Baptism. In Baptism, you were clothed with Christ (Galatians 3:27). You were buried with Him and raised to new life (Romans 6:4). You received a new identity that no addiction can overwrite, no sin can erase, no devil can revoke.
 
-The backward mechanism says: "You need porn. Without it, you're incomplete." Your Baptism says: "You are complete in Christ. You lack nothing."
+The backward mechanism says: "You need porn. Without it, you're incomplete." Your Baptism says: "You are complete in Jesus Christ. You lack nothing."
 
 The backward mechanism says: "This craving is part of you. It will always be there." Your Baptism says: "The old has gone, the new has come" (2 Corinthians 5:17). The craving was manufactured by a drug. It is not part of the you that God created and redeemed.
 
-The backward mechanism says: "Porn gives you relief. It's your comfort." Your Baptism points you to the God who says: *"Come to me, all you who are weary and burdened, and I will give you rest"* (Matthew 11:28). Not counterfeit rest. Not the temporary silence of a fed monster. Real rest. Lasting rest. The rest of a child in its Father's arms.
+The backward mechanism says: "Porn gives you relief. It's your comfort." Your Baptism points you to Jesus Christ, who says: *"Come to me, all you who are weary and burdened, and I will give you rest"* (Matthew 11:28). Not counterfeit rest. Not the temporary silence of a fed monster. Real rest. Lasting rest. The rest of a child in its Father's arms.
 
 When you understand the backward mechanism, you don't just see through a lie about porn. You see through a lie about yourself. And you are free to return to the truth — the truth spoken over you in water and the Word, the truth that you are God's own child, loved and free.
 

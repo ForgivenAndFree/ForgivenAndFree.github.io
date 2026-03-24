@@ -197,7 +197,7 @@ But salt water does not quench thirst. It worsens it. The salt dehydrates the bo
 
 If he keeps drinking from that well, he will die. Not despite the water, but *because* of it.
 
-The fresh water — the living water that Jesus spoke of to the woman at the well in John 4 — is available. It has always been available. But the man can't taste it because his palate has been destroyed by salt.
+The fresh water — the living water that Jesus Christ spoke of to the woman at the well in John 4 — is available. It has always been available. But the man can't taste it because his palate has been destroyed by salt.
 
 Porn is salt water. The soul is thirsty for God — for real intimacy, real beauty, real transcendence. Porn offers a counterfeit that makes the thirst worse with every sip. And the worse the thirst becomes, the more desperately the man reaches for the only "water" he knows.
 

@@ -193,7 +193,7 @@ Baptism is God's declaration over you, and God's declarations do not change. You
 
 Make Luther's declaration your own. When the whisper comes — and it will — respond not with willpower but with identity:
 
-"I am baptized. I am free. I am a child of God. I don't need this poison."
+"I am baptized into Jesus Christ. I am free. I am a child of God. I don't need this poison."
 
 This is not a positive affirmation. This is not a self-help mantra. This is a confession of objective theological reality. God said it. It is true. And the devil — who is a liar from the beginning (John 8:44) — has no answer for the truth.
 

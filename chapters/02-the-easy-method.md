@@ -124,7 +124,7 @@ Consider the two approaches to righteousness before God.
 
 The Law approach says: "Here is what God demands. Here are the Ten Commandments. Here is the standard of perfection. Now go and achieve it. Try harder. Be better. Grit your teeth and obey." This is the willpower method applied to salvation. And it produces the exact same cycle: effort, failure, guilt, deeper effort, deeper failure, deeper guilt, despair.
 
-The Gospel approach says something radically different. It says: "You cannot make yourself righteous. But Christ has been righteous for you. His perfect life is credited to your account. His death paid for your failures. You are not becoming righteous through effort; you are *declared* righteous through faith. Now — from that position of security, from that place of acceptance, from the solid ground of God's unshakable promise — live freely."
+The Gospel approach says something radically different. It says: "You cannot make yourself righteous. But Christ has been righteous for you. His perfect life is credited to your account. His death paid for your failures. You are not becoming righteous through effort; you are *declared* righteous through faith. Now — from that position of security, from that place of acceptance, from the solid ground of Jesus Christ's unshakable promise — live freely."
 
 The Law says: "Stop sinning!" and leaves you powerless.
 
@@ -140,7 +140,7 @@ This is not antinomianism — the heresy that says sin doesn't matter because gr
 
 ## Luther's Joyful Exchange
 
-Luther had a beautiful concept that he called the *fröhliche Wechsel* — the "joyful exchange." In his treatise *The Freedom of a Christian* (1520), Luther described what happens when the soul is united with Christ through faith. It is like a marriage, Luther said. In this marriage, everything that belongs to Christ — His righteousness, His life, His salvation — becomes yours. And everything that belongs to you — your sin, your death, your condemnation — becomes His. Christ takes your slavery; you receive His freedom. Christ takes your shame; you receive His honor. Christ takes your addiction; you receive His liberty.
+Luther had a beautiful concept that he called the *fröhliche Wechsel* — the "joyful exchange." In his treatise *The Freedom of a Christian* (1520), Luther described what happens when the soul is united with Jesus Christ through faith. It is like a marriage, Luther said. In this marriage, everything that belongs to Christ — His righteousness, His life, His salvation — becomes yours. And everything that belongs to you — your sin, your death, your condemnation — becomes His. Christ takes your slavery; you receive His freedom. Christ takes your shame; you receive His honor. Christ takes your addiction; you receive His liberty.
 
 This is not a transaction you earn. It is a gift you receive. "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast" (Ephesians 2:8-9).
 

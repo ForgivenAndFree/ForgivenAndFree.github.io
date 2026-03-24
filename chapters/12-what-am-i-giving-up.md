@@ -121,7 +121,7 @@ And the question you've been asking — "What am I giving up?" — suddenly look
 
 If you are a Christian, you should recognize this pattern. It is the pattern of the Gospel itself.
 
-What do you "give up" when you come to Christ? Your sin. Your guilt. Your self-destruction. Your futile attempts to save yourself. Your bondage to the Law. Your slavery to death.
+What do you "give up" when you come to Jesus Christ? Your sin. Your guilt. Your self-destruction. Your futile attempts to save yourself. Your bondage to the Law. Your slavery to death.
 
 Is that a sacrifice? Is the prisoner "sacrificing" his chains when the governor issues a pardon? Is the sick man "sacrificing" his disease when the doctor provides a cure? Is the drowning man "sacrificing" the water in his lungs when someone pulls him to shore?
 

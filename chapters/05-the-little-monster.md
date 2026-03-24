@@ -149,7 +149,7 @@ The little monster is grim. It is persistent. It whispers in the dark hours. It 
 
 You need not fear it. You need not tremble before it. You need not muster heroic willpower to battle it. You need only understand what it is — a parasite, a whisper, a fading echo of a trap you are leaving behind — and refuse to feed it. It will do the rest. It will die on its own, because dying is what parasites do when they are starved.
 
-One little word — the word of truth, the word that says "this craving is not a need, this emptiness is not real, this monster is already dead" — shall fell it.
+One little word — the name of Jesus Christ, the word of truth that says "this craving is not a need, this emptiness is not real, this monster is already dead" — shall fell it.
 
 ### The Flesh and the Devil
 

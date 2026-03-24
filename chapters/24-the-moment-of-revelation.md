@@ -148,7 +148,7 @@ There is another historical parallel that illuminates this moment with remarkabl
 
 For years, the young Martin Luther was tormented by a phrase in Romans 1:17: "the righteousness of God." He understood this as God's active, punishing righteousness — the righteousness by which God judges and condemns sinners. And since Luther knew himself to be a sinner, this phrase filled him with dread. He prayed. He fasted. He confessed. He tried every work of devotion the medieval church offered. Nothing brought peace, because the harder he tried to be righteous, the more clearly he saw his unrighteousness.
 
-Then, in what he later called his *Turmerlebnis* — his "tower experience" — something broke through. He was studying Romans 1:17 yet again, and suddenly he *saw* it: "the righteousness of God" is not God's punishing righteousness. It is God's *gift* of righteousness — the righteousness that God freely gives to sinners through faith in Christ.
+Then, in what he later called his *Turmerlebnis* — his "tower experience" — something broke through. He was studying Romans 1:17 yet again, and suddenly he *saw* it: "the righteousness of God" is not God's punishing righteousness. It is God's *gift* of righteousness — the righteousness that God freely gives to sinners through faith in Jesus Christ.
 
 Luther described the moment: "I felt that I was altogether born again and had entered paradise itself through open gates." The text hadn't changed. The truth had been there the whole time, embedded in the words he'd been reading for years. But in that moment, his eyes were opened. He saw what he couldn't see before.
 

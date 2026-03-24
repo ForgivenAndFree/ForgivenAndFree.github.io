@@ -171,7 +171,7 @@ In your baptism, you were joined to Christ's death and resurrection. The old sel
 
 "Just one peek" appeals to the old self. It speaks the old self's language. It offers the old self's currency. But the old self is dead. You don't need to argue with the serpent. You don't need to muster willpower against the whisper. You need only remember who you are.
 
-You are not an addict who is managing a disease. You are a baptized child of God who has been set free from a trap. The peek offers you nothing because you already have everything — forgiveness, identity, purpose, the presence of Christ, eternal life. What can "just one peek" add to that?
+You are not an addict who is managing a disease. You are a baptized child of God who has been set free from a trap by Jesus Christ. The peek offers you nothing because you already have everything — forgiveness, identity, purpose, the presence of Christ, eternal life. What can "just one peek" add to that?
 
 Nothing. Absolutely nothing.
 
