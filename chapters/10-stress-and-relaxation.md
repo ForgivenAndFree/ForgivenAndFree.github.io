@@ -117,7 +117,7 @@ Let us turn from the counterfeit to the genuine. What does real rest look like? 
 
 Jesus said: *"Come to me, all you who are weary and burdened, and I will give you rest"* (Matthew 11:28). Notice the structure. He doesn't say: "Go find rest somewhere." He says: "*Come to me*, and I will *give* you rest." Rest is not something you achieve or manufacture or stimulate. It is something you *receive* from someone who has it to give.
 
-This is the fundamental difference between the counterfeit rest of porn and the genuine rest of the Gospel. Porn says: "Take rest. Grab it. Manufacture it through stimulation. Force your neurochemistry into a brief window of quiescence." Jesus Christ says: "Come to me. I will give you rest." One is active — you producing an effect. The other is receptive — you receiving a gift.
+This is the fundamental difference between the counterfeit rest of porn and the genuine rest of the Gospel. Porn says: "Take rest. Grab it. Manufacture it through stimulation. Force your neurochemistry into a brief window of quiescence." Jesus says: "Come to me. I will give you rest." One is active — you producing an effect. The other is receptive — you receiving a gift.
 
 Luther, in his explanation of the Third Commandment ("Remember the Sabbath day by keeping it holy"), shifted the focus from external rest to spiritual rest. His explanation reads: "We should fear and love God so that we do not despise preaching and His Word, but hold it sacred and gladly hear and learn it." True Sabbath rest — true human rest — is found in receiving God's Word. It is the rest of a creature who has stopped striving and started receiving.
 

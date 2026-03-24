@@ -48,7 +48,7 @@ But understand what this vow is and what it is not.
 
 Here is what you are declaring:
 
-*I am done with pornography. Not because I am strong enough to resist it, but because I see that it gives me nothing and I trust God's promise more than the lie. Not because I fear the consequences, but because I understand the trap. Not because someone is watching me, but because the brainwashing is broken and I see clearly. Porn is a poison that masquerades as a pleasure. It creates the discomfort it pretends to relieve. It takes everything and gives nothing. I don't need it. I never did. And I will never use it again — not because I can't, but because I don't want to, and not because my will is strong, but because the Word of Jesus Christ is true. There is nothing there for me.*
+*I am done with pornography. Not because I am strong enough to resist it, but because I see that it gives me nothing and I trust God's promise more than the lie. Not because I fear the consequences, but because I understand the trap. Not because someone is watching me, but because the brainwashing is broken and I see clearly. Porn is a poison that masquerades as a pleasure. It creates the discomfort it pretends to relieve. It takes everything and gives nothing. I don't need it. I never did. And I will never use it again — not because I can't, but because I don't want to, and not because my will is strong, but because the Word of the Lord Jesus is true. There is nothing there for me.*
 
 Say it. Mean it — even if your faith feels small. "Lord, I believe; help my unbelief" is enough. And then let the weight of it settle into your bones.
 

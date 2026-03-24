@@ -161,7 +161,7 @@ This book removes the big monster entirely. When you understand that porn gives 
 
 ## The Light That Exposes
 
-Jesus Christ said: "You will know the truth, and the truth will set you free" (John 8:32). This is not merely a spiritual platitude. It is the operating principle of this entire method.
+Jesus said: "You will know the truth, and the truth will set you free" (John 8:32). This is not merely a spiritual platitude. It is the operating principle of this entire method.
 
 The big monster survives in darkness. It thrives on unexamined assumptions, on feelings mistaken for facts, on cultural messaging absorbed uncritically, on lies repeated so often they feel like truth. Drag it into the light — examine every belief, question every assumption, test every claim — and it shrivels.
 

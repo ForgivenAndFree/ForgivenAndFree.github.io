@@ -22,7 +22,7 @@ I am not minimizing what happened. If you slipped, that was a real sin with real
 
 But here is what I need you to hear even more urgently: **a slip is not a relapse. A stumble is not a fall from a cliff. Tripping on the path does not mean the path has disappeared.** You are still a baptized child of God. You are still forgiven. You are still free — yes, free, even right now, even with the shame sitting on your chest like a stone.
 
-How can I say that? Because your freedom was never based on your perfect performance. It was based on Jesus Christ's perfect performance, delivered to you in the Gospel, sealed in your baptism, spoken over you in absolution. That foundation has not moved one inch. The cross did not wobble when you fell.
+How can I say that? Because your freedom was never based on your perfect performance. It was based on Jesus' perfect performance, delivered to you in the Gospel, sealed in your baptism, spoken over you in absolution. That foundation has not moved one inch. The cross did not wobble when you fell.
 
 So let's talk about what actually happened, why it happened, what to do about it, and why the devil is desperately hoping you won't read the rest of this chapter.
 

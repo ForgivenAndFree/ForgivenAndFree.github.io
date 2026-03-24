@@ -124,7 +124,7 @@ Consider the two approaches to righteousness before God.
 
 The Law approach says: "Here is what God demands. Here are the Ten Commandments. Here is the standard of perfection. Now go and achieve it. Try harder. Be better. Grit your teeth and obey." This is the willpower method applied to salvation. And it produces the exact same cycle: effort, failure, guilt, deeper effort, deeper failure, deeper guilt, despair.
 
-The Gospel approach says something radically different. It says: "You cannot make yourself righteous. But Christ has been righteous for you. His perfect life is credited to your account. His death paid for your failures. You are not becoming righteous through effort; you are *declared* righteous through faith. Now — from that position of security, from that place of acceptance, from the solid ground of Jesus Christ's unshakable promise — live freely."
+The Gospel approach says something radically different. It says: "You cannot make yourself righteous. But Christ has been righteous for you. His perfect life is credited to your account. His death paid for your failures. You are not becoming righteous through effort; you are *declared* righteous through faith. Now — from that position of security, from that place of acceptance, from the solid ground of the Lord Jesus' unshakable promise — live freely."
 
 The Law says: "Stop sinning!" and leaves you powerless.
 
