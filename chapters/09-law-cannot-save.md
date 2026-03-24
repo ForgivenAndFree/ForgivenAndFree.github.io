@@ -103,19 +103,21 @@ No passage of Scripture captures the willpower method more perfectly than Romans
 
 Read that again. Is that not the exact experience of every person trying to quit porn through willpower? "I want to stop. I hate this. I know it's destroying me. But I keep doing it." This is not a failure of willpower. This is the human condition under the Law. The Law tells you what to do. It does not give you the power to do it. It illuminates the standard. It does not enable you to meet it.
 
-The willpower method keeps you in Romans 7 — endlessly cycling between resolution and failure, desire and defeat, determination and despair. And many Christians stay in Romans 7 for years, even decades, because they have been taught that the Christian life is *supposed* to be a struggle, that the mark of faithfulness is how hard you fight, and that the cycle of failure and recommitment is just "the Christian walk."
+Now, here is something crucial that many Christians get wrong: Romans 7 is not a phase you graduate out of. Paul is not describing a problem he *used to have*. He is describing the permanent condition of every Christian this side of the resurrection. You are *simul justus et peccator* — simultaneously saint and sinner. The old Adam never retires. The flesh never stops warring against the Spirit. You will battle sinful desires — including disordered sexual desires — until you die. That is the sober Lutheran confession, and anyone who tells you otherwise is selling a theology of glory.
 
-But Paul does not end at Romans 7. He moves to Romans 8:
+But — and this is critical — Romans 8 is not a destination you reach *after* Romans 7. You live in both *at the same time*. Even while the flesh wars against the Spirit, even while the old Adam rages, Paul declares:
 
 *"Thanks be to God, who delivers me through Jesus Christ our Lord!"* (Romans 7:25)
 
 *"Therefore, there is now NO CONDEMNATION for those who are in Christ Jesus, because through Christ Jesus the law of the Spirit who gives life has set you free from the law of sin and death."* (Romans 8:1-2)
 
-Notice the transition. Paul doesn't say: "So I tried harder and eventually succeeded." He doesn't say: "So I developed better accountability structures." He doesn't say: "So I gritted my teeth and white-knuckled my way to victory." He says: "Thanks be to God, who delivers me." The deliverance comes from *outside himself*. It is received, not achieved.
+Notice: Paul doesn't say "So I tried harder and eventually conquered the flesh." He doesn't say "So I developed better accountability structures." He says: "Thanks be to God, who delivers me." The deliverance comes from *outside himself*. It is received, not achieved. And it is received *now* — not after the battle is won, because the battle is never fully won in this life.
 
-And immediately — *immediately* — the condemnation lifts. "There is now NO condemnation." Not "less condemnation." Not "condemnation that you can manage." NO condemnation. The entire weight of guilt, shame, failure, and self-loathing is removed. Not because you finally achieved the streak. Not because you finally proved you were strong enough. But because Christ bore it, and His work is complete.
+"There is now NO condemnation." Not "less condemnation." Not "condemnation that you can manage." NO condemnation. The entire weight of guilt, shame, failure, and self-loathing is removed — not because you finally conquered the flesh, but because Christ bore it, and His work is complete.
 
-The willpower method keeps you in Romans 7. This book aims to bring you into Romans 8.
+So what does this mean for pornography? It means the willpower method gets Romans 7 exactly backward. It treats the ongoing struggle of the flesh as a problem to be *solved* — as if the right amount of effort could silence the old Adam forever. When the struggle continues (as it always will), the willpower method calls that failure. The user despairs. And the despair drives them right back into the trap.
+
+This book does not promise you will conquer the flesh. You won't — not in this life. But it does promise you something the willpower method never can: you can *see through the brainwashing*. The war between flesh and Spirit will continue, but you do not have to fight it from inside a fog of lies. When you understand that porn gives you nothing — no genuine pleasure, no real relief, no actual benefit — you remove the ammunition the devil uses to exploit the weakness of your flesh. The old Adam still wants what is sinful, but the specific lie that pornography *delivers* what it promises? That lie can be destroyed. And when it is destroyed, the trap loses its power — not because the flesh is conquered, but because the bait is exposed as empty.
 
 ## Galatians 3 and the Purpose of the Law
 
