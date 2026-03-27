@@ -137,4 +137,5 @@ In Christ,
 
 - [**Why Lutheranism: Assurance, Despair, and the Architecture of Salvation**]({{ site.baseurl }}/resources/why-lutheranism) — Why the theological tradition behind this book matters, and how Reformed theology generates the very despair that keeps people enslaved.
 - [**A Guide to Private Confession and Absolution**]({{ site.baseurl }}/resources/private-confession) — What Luther taught, why it matters for pornography, and what to expect when you go.
+- [**Porn Is Not Your Only Problem**]({{ site.baseurl }}/resources/not-your-only-problem) — Freedom from porn can breed a subtle pride. A walk through the whole Catechism to dismantle that lie.
 - [**Scripture and Catechism for the Moment of Temptation**]({{ site.baseurl }}/resources/scripture-and-catechism) — Gospel passages and Catechism quotes organized by the lie you're facing, with a rapid-response guide.
