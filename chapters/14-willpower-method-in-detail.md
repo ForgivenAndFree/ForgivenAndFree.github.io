@@ -159,11 +159,9 @@ The EasyPeasy method aims to make porn irrelevant. Not forbidden. Not heroically
 When you understand — truly understand — that porn gives you nothing, takes everything, creates the void it pretends to fill, and has been the source of your suffering rather than its remedy — the desire dies. Not through suppression. Through evaporation. And once the desire is gone, you don't need willpower any more than you need willpower to avoid eating dirt.
 
 
-## Romans 7: The Diagnosis, Not the Prescription
+## Romans 7: The Christian Life — and the Willpower Method's Distortion of It
 
-Now let us turn to the theological heart of this chapter, because the parallel between the willpower method and the Law-without-Gospel is exact.
-
-In Romans 7, Paul writes one of the most agonizing passages in all of Scripture:
+Now let us turn to the theological heart of this chapter. In Romans 7, Paul writes one of the most agonizing passages in all of Scripture:
 
 > *"I do not understand what I do. For what I want to do I do not do, but what I hate I do."* (v. 15)
 
@@ -171,33 +169,25 @@ In Romans 7, Paul writes one of the most agonizing passages in all of Scripture:
 
 > *"What a wretched man I am! Who will rescue me from this body that is subject to death?"* (v. 24)
 
-Generations of Christians have read this and thought: *This is the Christian life. This is what it means to follow Jesus. An eternal struggle against sin, sometimes winning, sometimes losing, always suffering.*
+This *is* the Christian life. Paul is not describing a phase he outgrew or a condition that ends when you have enough faith. He is describing the permanent reality of every baptized believer this side of the resurrection. You are *simul justus et peccator* — simultaneously saint and sinner. The old Adam never retires. The flesh never stops warring against the Spirit. This is the sober Lutheran confession, and anyone who tells you otherwise is selling a theology of glory.
 
-But this is a catastrophic misreading. Paul is not *prescribing* the Christian life in Romans 7. He is *diagnosing* a problem. He is describing what life looks like when you know the Law — when you know what is right — but lack the power to do it. He is describing life under the Law without the Gospel.
+So what does the willpower method get wrong? Not the struggle itself — the struggle is real and ongoing. What the willpower method gets wrong is *how it answers the struggle*.
 
-And this is *exactly* the willpower method.
+Paul cries out: "What a wretched man I am! Who will rescue me?" And he answers his own question: *"Thanks be to God, who delivers me through Jesus Christ our Lord!"* (7:25). The willpower method hears the same cry and answers: "Try harder. Get more accountability. Install better filters. Count more days." It takes the anguish of Romans 7 — which is meant to drive you to Christ — and answers it with more Law.
 
-The willpower method says: "You know porn is wrong. Now stop doing it." That is Law. Pure Law. It tells you what you should do, but it gives you no power to do it. It shows you the standard and leaves you to meet it on your own.
+The willpower method says: "You know porn is wrong. Now stop doing it." That is Law. Pure Law. It tells you what you should do but gives you no power to do it. It shows you the standard and leaves you to meet it on your own. And the result is exactly what Paul describes: "What I want to do I do not do, but what I hate I do." You want to quit. You can't. You know it's wrong. You do it anyway. The Law is clear. Your inability is equally clear. And the gap between them is filled with nothing but guilt, shame, and self-condemnation.
 
-And the result is exactly what Paul describes: "What I want to do I do not do, but what I hate I do." You want to quit. You can't. You know it's wrong. You do it anyway. The Law is clear. Your inability is equally clear. And the gap between them is filled with nothing but guilt, shame, and self-condemnation.
+The willpower method does not merely fail to solve the Romans 7 struggle. It *traps you inside the anguish* while cutting you off from the answer Paul actually gives.
 
-Romans 7 is the willpower method. It is the agonized cry of a person who knows the right thing but cannot do it. It is the perpetual cycle of resolution and failure, determination and collapse, willpower and relapse.
+### Living in Romans 7 and Romans 8 at the Same Time
 
-**But Romans 7 is not where Paul stops.**
-
-### Romans 7:25 — 8:1: The Turning Point
-
-Watch what happens next:
-
-> *"Who will rescue me from this body that is subject to death? Thanks be to God, who delivers me through Jesus Christ our Lord!"* (7:24-25)
+Here is what the willpower method misses entirely: Romans 8 is not a destination you arrive at *after* Romans 7. You live in both *at the same time*. Even while the old Adam rages, even while the flesh wars against the Spirit, Paul declares:
 
 > *"Therefore, there is now no condemnation for those who are in Christ Jesus, because through the Spirit of the law of life set me free from the law of sin and death."* (8:1-2)
 
-The answer to the agonized cry of Romans 7 is not "Try harder." It is not "Get more accountability." It is not "Install better filters." It is not "Count more days."
+"Now." Not "eventually." Not "once you've won the battle." *Now*. The struggle of Romans 7 continues — the old Adam does not die until you do — but the condemnation is gone. Christ bore it. His work is finished. You are simultaneously the wretched man who cannot do the good he wants *and* the man for whom there is no condemnation. That is the scandal of the Gospel.
 
-The answer is: *deliverance through Jesus Christ*. And the immediate consequence is: *no condemnation*.
-
-The willpower method keeps you perpetually in Romans 7 — perpetually struggling, perpetually failing, perpetually condemned. The Gospel brings you to Romans 8 — delivered, set free, no longer condemned.
+The willpower method cannot hold these two truths together. It hears the struggle and demands resolution: either you conquer the flesh (victory!) or the flesh conquers you (failure!). There is no room for the strange, cruciform reality that you remain a sinner and yet stand fully forgiven. So it keeps you in the anguish of Romans 7 — and robs you of the comfort that Paul himself received right there in the same breath.
 
 This does not mean that freedom from porn addiction is a purely spiritual event that requires no practical understanding. That would be its own form of the "theology of glory" — expecting God to zap you with freedom while you do nothing to understand the trap. No. God gave you a brain, and He expects you to use it. This book is a practical tool that helps you see through the lies that sustain the addiction — lies that operate at the level of natural reason and can be addressed at the level of natural reason.
 
@@ -233,7 +223,7 @@ The monster has no power except the power you give it through belief. When you b
 
 Not free the way a willpower user is "free" — always on guard, always resisting, always afraid of the next temptation. Free the way a non-user is free — not even thinking about it, because there is nothing to think about.
 
-That is what this method offers. That is what Romans 8 offers. That is what the Gospel offers.
+That is what this method offers. That is what the Gospel offers — not escape from the struggle, but freedom within it.
 
 Not "try harder." But "be set free."
 
@@ -245,7 +235,7 @@ Not "try harder." But "be set free."
 
 *Deliver me, as You promised, through Jesus Christ. Send Your Spirit to open my eyes — not to try harder, but to see clearly. Let me see that this trap has no power, that this substance gives me nothing, that this void was manufactured and will close when I stop feeding it.*
 
-*Bring me from Romans 7 to Romans 8. From the cry of "What a wretched man I am!" to the declaration of "There is no condemnation." From the futility of the Law to the freedom of the Gospel.*
+*When the old Adam cries out "What a wretched man I am!" — let me hear, in the very same breath, the answer You have already given: "There is no condemnation for those who are in Christ Jesus." Let me live in both — the honest struggle and the certain comfort.*
 
 *I cannot do this by my own reason or strength. But You can. And You will. Because You have promised. And Your promises do not fail.*
 
