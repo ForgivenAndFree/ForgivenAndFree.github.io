@@ -127,15 +127,15 @@ This is the difference between fighting temptation and seeing through a lie. Whe
 
 Martin Luther understood the distinction between a passing thought and a cultivated desire. His famous image captures it perfectly: "You cannot prevent birds from flying over your head, but you can prevent them from building nests in your hair."
 
-A tempting thought entering your mind is not sin. You are a human being living in a fallen world saturated with sexual imagery. Thoughts will come. Cues will trigger. The little monster, while it still lives, will send its signals. A fleeting thought of pornography crossing your mind is as natural and morally neutral as a bird flying overhead.
+You are a human being living in a fallen world saturated with sexual imagery. Thoughts will come. Cues will trigger. The little monster, while it still lives, will send its signals. A fleeting lustful thought crossing your mind is like a bird flying overhead — but it is not morally neutral. It is concupiscence, the indwelling sin that clings to us this side of glory. Even unbidden desires reveal that we are *simul justus et peccator* — simultaneously saint and sinner. So we repent of the sinful nature that produces such thoughts, trusting that Christ's righteousness covers even these.
 
-The sin begins when you invite the bird to land. When you entertain the thought, dwell on it, nurture it, build a fantasy around it, and then act on it — that is feeding the monster. That is "just one peek."
+But repentance does not mean panic. You do not need to dwell on such a thought or treat it as a crisis. Confess it, let it pass, and move on. The real danger begins when you invite the bird to land — when you entertain the thought, nurture it, build a fantasy around it, and then act on it. That is feeding the monster. That is "just one peek."
 
 Luther's explanation of the Tenth Commandment is instructive here: "You shall not covet." And his meaning: "We should fear and love God so that we do not scheme to get our neighbor's inheritance or house, or get it in a way which only appears right, but help him to keep it."
 
-The structure is important. The commandment addresses not the involuntary flash of desire but the *scheming* — the deliberate, calculating cultivation of wanting what isn't yours. "Just one peek" is always a scheme. It always involves a rationalization, a justification, a plan. "I'll just check this one thing." "I'll only look for a minute." "It's not really porn." These are schemes. They are the deliberate construction of a nest for the bird.
+The structure is important. The commandment addresses not just the involuntary flash of desire — which is itself sinful concupiscence to repent of — but especially the *scheming*, the deliberate, calculating cultivation of wanting what isn't yours. "Just one peek" is always a scheme. It always involves a rationalization, a justification, a plan. "I'll just check this one thing." "I'll only look for a minute." "It's not really porn." These are schemes. They are the deliberate construction of a nest for the bird.
 
-The involuntary thought? Let it fly over. It has no power over you unless you feed it.
+The involuntary thought? Repent of the sinful nature behind it, then let it fly over. It has no power over you unless you feed it.
 
 ## The Chain You Cannot See
 
