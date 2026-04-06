@@ -240,7 +240,7 @@ That spiral is the trap. It keeps you chained to pornography by making your stan
 
 Lutheran theology cuts through all of it:
 
-**You were baptized.** God claimed you. That happened. It is a fact of history, not a feeling to be evaluated.
+**You are baptized.** God claimed you. That happened. It is a fact of history, not a feeling to be evaluated.
 
 **You are absolved.** The pastor spoke the words. God's word does what it says. Your forgiveness is as reliable as God's faithfulness.
 
