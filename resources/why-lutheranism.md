@@ -32,7 +32,7 @@ Both traditions affirm unconditional election — God chooses, we don't earn it.
 
 This is one of the most destabilizing things Calvin ever wrote, and his successors have never fully defused it. In the *Institutes* (III.2.11), Calvin explicitly states:
 
-> *"God illumines [the reprobate] for a time to partake of it, then justly forsakes them on account of their ungratefulness and strikes them with even greater blindness... Experience shows that the reprobate are sometimes affected by almost the same feeling as the elect, so that even in their own judgment they do not in any way differ from the elect."*
+> *"Experience shows that the reprobate are sometimes affected in a way so similar to the elect, that even in their own judgment there is no difference between them... the elect alone have that full assurance which is extolled by Paul... the reprobate never have any other than a confused sense of grace, laying hold of the shadow rather than the substance."*
 
 Read that again. Calvin is saying:
 
