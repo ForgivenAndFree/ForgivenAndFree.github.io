@@ -5,8 +5,8 @@ title: "Chapter 29: For Partners and Loved Ones"
 
 # Chapter 29: For Partners and Loved Ones
 
-> *"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."*
-> — Ephesians 4:32 (NIV)
+> *"Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you."*
+> — Ephesians 4:32 (ESV)
 
 ---
 
@@ -138,7 +138,7 @@ Develop and maintain your own interests, friendships, and activities. Your life 
 
 You are not responsible for your partner's addiction. You did not cause it. You cannot cure it. You are not obligated to tolerate abuse in the name of "supporting their recovery."
 
-Love is patient, yes (1 Corinthians 13:4). But love also "does not rejoice at wrongdoing" and "bears all things, believes all things, hopes all things, endures all things." Bearing, believing, hoping, and enduring are not the same as enabling. There is a difference between patience and passivity. There is a difference between forgiveness and doormat-ism. There is a difference between grace and the absence of consequences.
+Love is patient, yes (1 Corinthians 13:4). But love also "does not rejoice at wrongdoing" but "bears all things, believes all things, hopes all things, endures all things." Bearing, believing, hoping, and enduring are not the same as enabling. There is a difference between patience and passivity. There is a difference between forgiveness and doormat-ism. There is a difference between grace and the absence of consequences.
 
 You have the right to set boundaries: "I need honesty. If you lie to me again, there will be consequences." "I need you to be in regular conversation with your pastor." "I need to see consistent change, not just promises." These are not punishments. They are the conditions under which trust can be rebuilt. And they are acts of love — because a person without boundaries cannot offer genuine love; they can only offer compliance.
 
@@ -174,9 +174,9 @@ I want to offer you two truths that seem contradictory but are both real.
 
 God's grace covers both outcomes. If your marriage survives and thrives, that is grace. If your marriage doesn't survive, that is also covered by grace. God does not love you less if your marriage fails. He does not grade you on the outcome. He walks with you through whatever comes — through the valley of the shadow, through the mess, through the grief, through the rebuilding. "The Lord is near to the brokenhearted and saves the crushed in spirit" (Psalm 34:18). Near. Not distant. Not disappointed. Near.
 
-"No discipline seems pleasant at the time, but painful. Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it" (Hebrews 12:11). This doesn't mean the pain is a good thing. It means God works good things even through painful things. The harvest may not look like you expected. But it will come.
+"For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it" (Hebrews 12:11). This doesn't mean the pain is a good thing. It means God works good things even through painful things. The harvest may not look like you expected. But it will come.
 
-"In all things God works for the good of those who love him, who have been called according to his purpose" (Romans 8:28). Note carefully: it does not say all things *are* good. It says God *works for good* in all things. Pornography addiction is not good. The pain it causes is not good. But God is at work even in the wreckage, and His work is always toward your good — even when you can't see it, even when it doesn't feel like it, even when the night seems endless.
+"And we know that for those who love God all things work together for good, for those who are called according to his purpose" (Romans 8:28). Note carefully: it does not say all things *are* good. It says all things *work together for good.* Pornography addiction is not good. The pain it causes is not good. But God is at work even in the wreckage, and His work is always toward your good — even when you can't see it, even when it doesn't feel like it, even when the night seems endless.
 
 ---
 
@@ -196,7 +196,7 @@ This restoration is one of the most beautiful things about freedom. Not because 
 
 ### Forgiveness in Marriage
 
-"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you" (Ephesians 4:32).
+"Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you" (Ephesians 4:32).
 
 Forgiveness in marriage after a pornography revelation is one of the hardest things a human being can do. It is also one of the most Christlike. Because forgiveness is not a feeling — it is a decision. It is a choice to not hold the sin against the person, to not use it as a weapon in future arguments, to not let it define the relationship forever.
 

@@ -5,7 +5,7 @@ title: "Chapter 20: Will I Miss the Fun? — The Envy Trap"
 
 # Chapter 20: Will I Miss the Fun? — The Envy Trap
 
-> *"I have learned to be content whatever the circumstances. I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want. I can do all this through him who gives me strength."* — Philippians 4:11-13
+> *"Not that I am speaking of being in need, for I have learned in whatever situation I am to be content. I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need. I can do all things through him who strengthens me."* — Philippians 4:11-13 (ESV)
 
 ---
 

@@ -5,8 +5,8 @@ title: "Chapter 28: Help Those on the Sinking Ship"
 
 # Chapter 28: Help Those on the Sinking Ship
 
-> *"Brothers and sisters, if someone is caught in a sin, you who live by the Spirit should restore that person gently. But watch yourselves, or you also may be tempted."*
-> — Galatians 6:1 (NIV)
+> *"Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourselves, lest you too be tempted."*
+> — Galatians 6:1 (ESV)
 
 ---
 
@@ -144,7 +144,7 @@ You, by living free, are part of this dynamic. Your freedom doesn't just benefit
 
 The Scriptures give us clear guidance on how to approach someone caught in sin, and the key word — the word that changes everything — is *gently.*
 
-"Brothers and sisters, if someone is caught in a sin, you who live by the Spirit should restore that person gently. But watch yourselves, or you also may be tempted" (Galatians 6:1).
+"Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourselves, lest you too be tempted" (Galatians 6:1).
 
 Gently. Not with a hammer of Law but with the balm of Gospel. Not with condemnation but with compassion. Not from a position of moral superiority but from a posture of humble solidarity: "I was there too. I understand. Let me show you the way out."
 

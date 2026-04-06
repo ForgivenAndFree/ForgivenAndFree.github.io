@@ -5,7 +5,7 @@ title: "Chapter 17: Casual Users and the Illusion of Control"
 
 # Chapter 17: Casual Users and the Illusion of Control
 
-> *"To some who were confident of their own righteousness and looked down on everyone else, Jesus told this parable: 'Two men went up to the temple to pray, one a Pharisee and the other a tax collector.'"* — Luke 18:9-10
+> *"He also told this parable to some who trusted in themselves that they were righteous, and treated others with contempt: 'Two men went up into the temple to pray, one a Pharisee and the other a tax collector.'"* — Luke 18:9-10 (ESV)
 
 ---
 
@@ -125,7 +125,7 @@ The casual user has accidentally optimized their addiction for maximum neurologi
 
 Jesus told a parable that cuts to the heart of the casual user's delusion. Luke 18:9-14:
 
-> *Two men went up to the temple to pray, one a Pharisee and the other a tax collector. The Pharisee stood by himself and prayed: "God, I thank you that I am not like other people — robbers, evildoers, adulterers — or even like this tax collector. I fast twice a week and give a tenth of all I get." But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, "God, have mercy on me, a sinner." I tell you that this man, rather than the other, went home justified before God.*
+> *"The Pharisee, standing by himself, prayed thus: 'God, I thank you that I am not like other men, extortioners, unjust, adulterers, or even like this tax collector. I fast twice a week; I give tithes of all that I get.' But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, 'God, be merciful to me, a sinner!' I tell you, this man went down to his house justified, rather than the other."*
 
 The casual user is the Pharisee of the pornography world. "God, I thank you that I am not like those heavy users, those addicts, those people who've lost their marriages to this. I only use once a week. I have it under control."
 

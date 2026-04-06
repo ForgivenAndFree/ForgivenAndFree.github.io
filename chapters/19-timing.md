@@ -5,7 +5,7 @@ title: "Chapter 19: Timing — When Is the Right Time? Now."
 
 # Chapter 19: Timing — When Is the Right Time? Now.
 
-> *"As God's co-workers we urge you not to receive God's grace in vain. For he says, 'In the time of my favor I heard you, and in the day of salvation I helped you.' I tell you, now is the time of God's favor, now is the day of salvation."* — 2 Corinthians 6:1-2
+> *"Working together with him, then, we appeal to you not to receive the grace of God in vain. For he says, 'In a favorable time I listened to you, and in a day of salvation I have helped you.' Behold, now is the favorable time; behold, now is the day of salvation."* — 2 Corinthians 6:1-2 (ESV)
 
 ---
 
@@ -137,9 +137,9 @@ Pay the price now. It's the same price whenever you pay it. But every day you wa
 
 Scripture speaks with one voice on the urgency of the present moment.
 
-Paul writes to the Corinthians: "Now is the time of God's favor, now is the day of salvation." Not tomorrow. Not when you're ready. Not when circumstances align. Now. The Greek word is *nun* — it means this instant, this very moment. Paul isn't describing a general era; he's describing this breath, this heartbeat, this decision point.
+Paul writes to the Corinthians: "Behold, now is the favorable time; behold, now is the day of salvation." Not tomorrow. Not when you're ready. Not when circumstances align. Now. The Greek word is *nun* — it means this instant, this very moment. Paul isn't describing a general era; he's describing this breath, this heartbeat, this decision point.
 
-Jesus tells the parable of the rich fool in Luke 12: A man's land produces abundantly. He tears down his barns and builds bigger ones. He says to himself, "You have plenty of grain laid up for many years. Take life easy; eat, drink and be merry." And God says to him: "You fool! This very night your life will be demanded from you."
+Jesus tells the parable of the rich fool in Luke 12: A man's land produces abundantly. He tears down his barns and builds bigger ones. He says to himself, "Soul, you have ample goods laid up for many years; relax, eat, drink, be merry." And God says to him: "Fool! This night your soul is required of you."
 
 The rich fool's sin wasn't greed alone. It was presumption — the assumption that he had time. That tomorrow was guaranteed. That he could defer what mattered until a more convenient season. He was wrong. He had no more tomorrows.
 

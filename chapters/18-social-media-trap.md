@@ -5,7 +5,7 @@ title: "Chapter 18: The Social Media Trap — Feeding the Monster Through the Si
 
 # Chapter 18: The Social Media Trap — Feeding the Monster Through the Side Door
 
-> *"What good is it for someone to gain the whole world, yet forfeit their soul? Or what can anyone give in exchange for their soul?"* — Mark 8:36-37
+> *"For what does it profit a man to gain the whole world and forfeit his soul? For what can a man give in return for his soul?"* — Mark 8:36-37 (ESV)
 
 ---
 
@@ -103,7 +103,7 @@ True freedom from idolatry doesn't come from removing one idol and replacing it 
 
 Let me go deeper into the neuroscience, because understanding the seeking circuit is essential to recognizing the social media trap.
 
-The brain's mesolimbic dopamine system — the pathway running from the ventral tegmental area (VTA) through the nucleus accumbens to the prefrontal cortex — evolved not to make us enjoy things but to make us *pursue* things. Dopamine is the neurochemistry of wanting, not of having. Its purpose is to motivate approach behavior: see something potentially rewarding, move toward it, obtain it.
+The brain's mesolimbic dopamine system — the pathway running from the ventral tegmental area (VTA) through the nucleus accumbens to the prefrontal cortex — exists not to make us enjoy things but to make us *pursue* things. Dopamine is the neurochemistry of wanting, not of having. Its purpose is to motivate approach behavior: see something potentially rewarding, move toward it, obtain it.
 
 In a healthy brain, this system works beautifully. You see food when hungry, dopamine motivates you to get it, you eat, opioid systems produce satisfaction, dopamine subsides. The cycle completes.
 
