@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Forgiven and Free: A Lutheran Method for Escaping the Pornography Trap"
+title: "Forgiven and Free: A Lutheran Guide to Freedom"
 ---
 
-# Forgiven and Free: A Lutheran Method for Escaping the Pornography Trap
+# Forgiven and Free: A Lutheran Guide to Freedom
 
 **"So if the Son sets you free, you will be free indeed."** — John 8:36
 
