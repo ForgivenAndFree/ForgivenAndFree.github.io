@@ -23,6 +23,9 @@ Additional reading to deepen your understanding of the theological foundations b
 - [**Scripture and Catechism for the Moment of Temptation**]({{ site.baseurl }}/resources/scripture-and-catechism)
   Gospel passages and Catechism quotes organized by the specific lie you're facing — identity attacks, the big monster's promises, feelings of weakness, shame, and the "missing out" lie. Includes a rapid-response section for active temptation.
 
+- [**What Is Salvation?**]({{ site.baseurl }}/resources/what-is-salvation)
+  What it actually means to be saved — how the Law condemns, how Christ's finished work forgives, how faith receives what it cannot earn, and how God delivers salvation through the Means of Grace. Neither lordship salvation nor bare decisionism, but the full Biblical picture.
+
 ---
 
 <nav style="display:flex;justify-content:space-between;padding:1em 0;">
