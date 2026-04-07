@@ -139,3 +139,4 @@ In Christ,
 - [**A Guide to Private Confession and Absolution**]({{ site.baseurl }}/resources/private-confession) — What Luther taught, why it matters for pornography, and what to expect when you go.
 - [**Porn Is Not Your Only Problem**]({{ site.baseurl }}/resources/not-your-only-problem) — Freedom from porn can breed a subtle pride. A walk through the whole Catechism to dismantle that lie.
 - [**Scripture and Catechism for the Moment of Temptation**]({{ site.baseurl }}/resources/scripture-and-catechism) — Gospel passages and Catechism quotes organized by the lie you're facing, with a rapid-response guide.
+- [**What Is Salvation?**]({{ site.baseurl }}/resources/what-is-salvation) — What it means to be saved: Law, Gospel, faith, Baptism, and the Means of Grace.
